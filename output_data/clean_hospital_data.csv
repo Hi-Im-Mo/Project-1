@@ -1,0 +1,1981 @@
+,state,season,mmwr_week,age_category,sex,race,rate,HHS_region
+0,California,2017,Overall,----18-29 years,Female,"A/PI, non-Hispanic",1.1,9
+1,California,2017,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0,9
+2,California,2017,Overall,----18-29 years,Female,"Black, non-Hispanic",6.4,9
+3,California,2017,Overall,----18-29 years,Female,Hispanic,0,9
+4,California,2017,Overall,----18-29 years,Female,"White, non-Hispanic",0,9
+5,California,2017,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0,9
+6,California,2017,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0,9
+7,California,2017,Overall,----18-29 years,Male,"Black, non-Hispanic",3.2,9
+8,California,2017,Overall,----18-29 years,Male,Hispanic,3.8,9
+9,California,2017,Overall,----18-29 years,Male,"White, non-Hispanic",0,9
+10,California,2017,Overall,----30-39 years,Female,"A/PI, non-Hispanic",0,9
+11,California,2017,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0,9
+12,California,2017,Overall,----30-39 years,Female,"Black, non-Hispanic",0,9
+13,California,2017,Overall,----30-39 years,Female,Hispanic,1.6,9
+14,California,2017,Overall,----30-39 years,Female,"White, non-Hispanic",0.9,9
+15,California,2017,Overall,----30-39 years,Male,"A/PI, non-Hispanic",0,9
+16,California,2017,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0,9
+17,California,2017,Overall,----30-39 years,Male,"Black, non-Hispanic",0,9
+18,California,2017,Overall,----30-39 years,Male,Hispanic,1.4,9
+19,California,2017,Overall,----30-39 years,Male,"White, non-Hispanic",1.6,9
+20,California,2017,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0,9
+21,California,2017,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",0,9
+22,California,2017,Overall,----40-49 years,Female,"Black, non-Hispanic",4.3,9
+23,California,2017,Overall,----40-49 years,Female,Hispanic,0,9
+24,California,2017,Overall,----40-49 years,Female,"White, non-Hispanic",1.1,9
+25,California,2017,Overall,----40-49 years,Male,"A/PI, non-Hispanic",2.6,9
+26,California,2017,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",0,9
+27,California,2017,Overall,----40-49 years,Male,"Black, non-Hispanic",0,9
+28,California,2017,Overall,----40-49 years,Male,Hispanic,1.7,9
+29,California,2017,Overall,----40-49 years,Male,"White, non-Hispanic",2,9
+30,California,2017,Overall,----65-74 years,Female,"A/PI, non-Hispanic",18.2,9
+31,California,2017,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",0,9
+32,California,2017,Overall,----65-74 years,Female,"Black, non-Hispanic",43.2,9
+33,California,2017,Overall,----65-74 years,Female,Hispanic,11,9
+34,California,2017,Overall,----65-74 years,Female,"White, non-Hispanic",19.5,9
+35,California,2017,Overall,----65-74 years,Male,"A/PI, non-Hispanic",22.6,9
+36,California,2017,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0,9
+37,California,2017,Overall,----65-74 years,Male,"Black, non-Hispanic",15.6,9
+38,California,2017,Overall,----65-74 years,Male,Hispanic,13.5,9
+39,California,2017,Overall,----65-74 years,Male,"White, non-Hispanic",46,9
+40,California,2017,Overall,----75-84 years,Female,"A/PI, non-Hispanic",49.2,9
+41,California,2017,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0,9
+42,California,2017,Overall,----75-84 years,Female,"Black, non-Hispanic",141.1,9
+43,California,2017,Overall,----75-84 years,Female,Hispanic,31.2,9
+44,California,2017,Overall,----75-84 years,Female,"White, non-Hispanic",64.1,9
+45,California,2017,Overall,----75-84 years,Male,"A/PI, non-Hispanic",55.7,9
+46,California,2017,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0,9
+47,California,2017,Overall,----75-84 years,Male,"Black, non-Hispanic",90.8,9
+48,California,2017,Overall,----75-84 years,Male,Hispanic,62.9,9
+49,California,2017,Overall,----75-84 years,Male,"White, non-Hispanic",119.5,9
+50,California,2017,Overall,----85+ years,Female,"A/PI, non-Hispanic",112,9
+51,California,2017,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0,9
+52,California,2017,Overall,----85+ years,Female,"Black, non-Hispanic",97.9,9
+53,California,2017,Overall,----85+ years,Female,Hispanic,103.8,9
+54,California,2017,Overall,----85+ years,Female,"White, non-Hispanic",158.7,9
+55,California,2017,Overall,----85+ years,Male,"A/PI, non-Hispanic",155.9,9
+56,California,2017,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0,9
+57,California,2017,Overall,----85+ years,Male,"Black, non-Hispanic",222.8,9
+58,California,2017,Overall,----85+ years,Male,Hispanic,112.7,9
+59,California,2017,Overall,----85+ years,Male,"White, non-Hispanic",192.2,9
+60,Georgia,2017,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0,4
+61,Georgia,2017,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0,4
+62,Georgia,2017,Overall,----18-29 years,Female,"Black, non-Hispanic",2.4,4
+63,Georgia,2017,Overall,----18-29 years,Female,Hispanic,0,4
+64,Georgia,2017,Overall,----18-29 years,Female,"White, non-Hispanic",0,4
+65,Georgia,2017,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0,4
+66,Georgia,2017,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0,4
+67,Georgia,2017,Overall,----18-29 years,Male,"Black, non-Hispanic",0.7,4
+68,Georgia,2017,Overall,----18-29 years,Male,Hispanic,0,4
+69,Georgia,2017,Overall,----18-29 years,Male,"White, non-Hispanic",0,4
+70,Georgia,2017,Overall,----30-39 years,Female,"A/PI, non-Hispanic",3.6,4
+71,Georgia,2017,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0,4
+72,Georgia,2017,Overall,----30-39 years,Female,"Black, non-Hispanic",2.8,4
+73,Georgia,2017,Overall,----30-39 years,Female,Hispanic,0,4
+74,Georgia,2017,Overall,----30-39 years,Female,"White, non-Hispanic",1,4
+75,Georgia,2017,Overall,----30-39 years,Male,"A/PI, non-Hispanic",0,4
+76,Georgia,2017,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0,4
+77,Georgia,2017,Overall,----30-39 years,Male,"Black, non-Hispanic",0.9,4
+78,Georgia,2017,Overall,----30-39 years,Male,Hispanic,0,4
+79,Georgia,2017,Overall,----30-39 years,Male,"White, non-Hispanic",1.9,4
+80,Georgia,2017,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0,4
+81,Georgia,2017,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",0,4
+82,Georgia,2017,Overall,----40-49 years,Female,"Black, non-Hispanic",1.5,4
+83,Georgia,2017,Overall,----40-49 years,Female,Hispanic,0,4
+84,Georgia,2017,Overall,----40-49 years,Female,"White, non-Hispanic",0.9,4
+85,Georgia,2017,Overall,----40-49 years,Male,"A/PI, non-Hispanic",4.3,4
+86,Georgia,2017,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",0,4
+87,Georgia,2017,Overall,----40-49 years,Male,"Black, non-Hispanic",0.9,4
+88,Georgia,2017,Overall,----40-49 years,Male,Hispanic,0,4
+89,Georgia,2017,Overall,----40-49 years,Male,"White, non-Hispanic",0.9,4
+90,Georgia,2017,Overall,----65-74 years,Female,"A/PI, non-Hispanic",10.9,4
+91,Georgia,2017,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",0,4
+92,Georgia,2017,Overall,----65-74 years,Female,"Black, non-Hispanic",5,4
+93,Georgia,2017,Overall,----65-74 years,Female,Hispanic,0,4
+94,Georgia,2017,Overall,----65-74 years,Female,"White, non-Hispanic",2.4,4
+95,Georgia,2017,Overall,----65-74 years,Male,"A/PI, non-Hispanic",0,4
+96,Georgia,2017,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0,4
+97,Georgia,2017,Overall,----65-74 years,Male,"Black, non-Hispanic",4.9,4
+98,Georgia,2017,Overall,----65-74 years,Male,Hispanic,18.6,4
+99,Georgia,2017,Overall,----65-74 years,Male,"White, non-Hispanic",6.8,4
+100,Georgia,2017,Overall,----75-84 years,Female,"A/PI, non-Hispanic",0,4
+101,Georgia,2017,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0,4
+102,Georgia,2017,Overall,----75-84 years,Female,"Black, non-Hispanic",22.2,4
+103,Georgia,2017,Overall,----75-84 years,Female,Hispanic,0,4
+104,Georgia,2017,Overall,----75-84 years,Female,"White, non-Hispanic",15.1,4
+105,Georgia,2017,Overall,----75-84 years,Male,"A/PI, non-Hispanic",0,4
+106,Georgia,2017,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0,4
+107,Georgia,2017,Overall,----75-84 years,Male,"Black, non-Hispanic",22,4
+108,Georgia,2017,Overall,----75-84 years,Male,Hispanic,0,4
+109,Georgia,2017,Overall,----75-84 years,Male,"White, non-Hispanic",9.9,4
+110,Georgia,2017,Overall,----85+ years,Female,"A/PI, non-Hispanic",0,4
+111,Georgia,2017,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0,4
+112,Georgia,2017,Overall,----85+ years,Female,"Black, non-Hispanic",12,4
+113,Georgia,2017,Overall,----85+ years,Female,Hispanic,0,4
+114,Georgia,2017,Overall,----85+ years,Female,"White, non-Hispanic",19.8,4
+115,Georgia,2017,Overall,----85+ years,Male,"A/PI, non-Hispanic",0,4
+116,Georgia,2017,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0,4
+117,Georgia,2017,Overall,----85+ years,Male,"Black, non-Hispanic",0,4
+118,Georgia,2017,Overall,----85+ years,Male,Hispanic,0,4
+119,Georgia,2017,Overall,----85+ years,Male,"White, non-Hispanic",9.3,4
+120,Maryland,2017,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0,3
+121,Maryland,2017,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0,3
+122,Maryland,2017,Overall,----18-29 years,Female,"Black, non-Hispanic",3.9,3
+123,Maryland,2017,Overall,----18-29 years,Female,Hispanic,0,3
+124,Maryland,2017,Overall,----18-29 years,Female,"White, non-Hispanic",0.9,3
+125,Maryland,2017,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0,3
+126,Maryland,2017,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0,3
+127,Maryland,2017,Overall,----18-29 years,Male,"Black, non-Hispanic",5.5,3
+128,Maryland,2017,Overall,----18-29 years,Male,Hispanic,0,3
+129,Maryland,2017,Overall,----18-29 years,Male,"White, non-Hispanic",0,3
+130,Maryland,2017,Overall,----30-39 years,Female,"A/PI, non-Hispanic",6.2,3
+131,Maryland,2017,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0,3
+132,Maryland,2017,Overall,----30-39 years,Female,"Black, non-Hispanic",4.7,3
+133,Maryland,2017,Overall,----30-39 years,Female,Hispanic,0,3
+134,Maryland,2017,Overall,----30-39 years,Female,"White, non-Hispanic",1,3
+135,Maryland,2017,Overall,----30-39 years,Male,"A/PI, non-Hispanic",0,3
+136,Maryland,2017,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0,3
+137,Maryland,2017,Overall,----30-39 years,Male,"Black, non-Hispanic",3.9,3
+138,Maryland,2017,Overall,----30-39 years,Male,Hispanic,0,3
+139,Maryland,2017,Overall,----30-39 years,Male,"White, non-Hispanic",1.9,3
+140,Maryland,2017,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0,3
+141,Maryland,2017,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",181.5,3
+142,Maryland,2017,Overall,----40-49 years,Female,"Black, non-Hispanic",5.2,3
+143,Maryland,2017,Overall,----40-49 years,Female,Hispanic,0,3
+144,Maryland,2017,Overall,----40-49 years,Female,"White, non-Hispanic",1.1,3
+145,Maryland,2017,Overall,----40-49 years,Male,"A/PI, non-Hispanic",7.8,3
+146,Maryland,2017,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",0,3
+147,Maryland,2017,Overall,----40-49 years,Male,"Black, non-Hispanic",6.4,3
+148,Maryland,2017,Overall,----40-49 years,Male,Hispanic,0,3
+149,Maryland,2017,Overall,----40-49 years,Male,"White, non-Hispanic",1.1,3
+150,Maryland,2017,Overall,----65-74 years,Female,"A/PI, non-Hispanic",35.5,3
+151,Maryland,2017,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",0,3
+152,Maryland,2017,Overall,----65-74 years,Female,"Black, non-Hispanic",30.3,3
+153,Maryland,2017,Overall,----65-74 years,Female,Hispanic,0,3
+154,Maryland,2017,Overall,----65-74 years,Female,"White, non-Hispanic",15.9,3
+155,Maryland,2017,Overall,----65-74 years,Male,"A/PI, non-Hispanic",0,3
+156,Maryland,2017,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0,3
+157,Maryland,2017,Overall,----65-74 years,Male,"Black, non-Hispanic",8.1,3
+158,Maryland,2017,Overall,----65-74 years,Male,Hispanic,101.7,3
+159,Maryland,2017,Overall,----65-74 years,Male,"White, non-Hispanic",15.3,3
+160,Maryland,2017,Overall,----75-84 years,Female,"A/PI, non-Hispanic",36.9,3
+161,Maryland,2017,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0,3
+162,Maryland,2017,Overall,----75-84 years,Female,"Black, non-Hispanic",17.4,3
+163,Maryland,2017,Overall,----75-84 years,Female,Hispanic,0,3
+164,Maryland,2017,Overall,----75-84 years,Female,"White, non-Hispanic",17.1,3
+165,Maryland,2017,Overall,----75-84 years,Male,"A/PI, non-Hispanic",44.6,3
+166,Maryland,2017,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0,3
+167,Maryland,2017,Overall,----75-84 years,Male,"Black, non-Hispanic",0,3
+168,Maryland,2017,Overall,----75-84 years,Male,Hispanic,0,3
+169,Maryland,2017,Overall,----75-84 years,Male,"White, non-Hispanic",34.2,3
+170,Maryland,2017,Overall,----85+ years,Female,"A/PI, non-Hispanic",0,3
+171,Maryland,2017,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0,3
+172,Maryland,2017,Overall,----85+ years,Female,"Black, non-Hispanic",12.9,3
+173,Maryland,2017,Overall,----85+ years,Female,Hispanic,192.3,3
+174,Maryland,2017,Overall,----85+ years,Female,"White, non-Hispanic",36.6,3
+175,Maryland,2017,Overall,----85+ years,Male,"A/PI, non-Hispanic",0,3
+176,Maryland,2017,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0,3
+177,Maryland,2017,Overall,----85+ years,Male,"Black, non-Hispanic",0,3
+178,Maryland,2017,Overall,----85+ years,Male,Hispanic,0,3
+179,Maryland,2017,Overall,----85+ years,Male,"White, non-Hispanic",41.2,3
+180,Minnesota,2017,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0,5
+181,Minnesota,2017,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0,5
+182,Minnesota,2017,Overall,----18-29 years,Female,"Black, non-Hispanic",3.2,5
+183,Minnesota,2017,Overall,----18-29 years,Female,Hispanic,0,5
+184,Minnesota,2017,Overall,----18-29 years,Female,"White, non-Hispanic",0.6,5
+185,Minnesota,2017,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0,5
+186,Minnesota,2017,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0,5
+187,Minnesota,2017,Overall,----18-29 years,Male,"Black, non-Hispanic",0,5
+188,Minnesota,2017,Overall,----18-29 years,Male,Hispanic,5,5
+189,Minnesota,2017,Overall,----18-29 years,Male,"White, non-Hispanic",1.2,5
+190,Minnesota,2017,Overall,----30-39 years,Female,"A/PI, non-Hispanic",0,5
+191,Minnesota,2017,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0,5
+192,Minnesota,2017,Overall,----30-39 years,Female,"Black, non-Hispanic",3.9,5
+193,Minnesota,2017,Overall,----30-39 years,Female,Hispanic,0,5
+194,Minnesota,2017,Overall,----30-39 years,Female,"White, non-Hispanic",1.3,5
+195,Minnesota,2017,Overall,----30-39 years,Male,"A/PI, non-Hispanic",0,5
+196,Minnesota,2017,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0,5
+197,Minnesota,2017,Overall,----30-39 years,Male,"Black, non-Hispanic",4,5
+198,Minnesota,2017,Overall,----30-39 years,Male,Hispanic,0,5
+199,Minnesota,2017,Overall,----30-39 years,Male,"White, non-Hispanic",0,5
+200,Minnesota,2017,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0,5
+201,Minnesota,2017,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",0,5
+202,Minnesota,2017,Overall,----40-49 years,Female,"Black, non-Hispanic",0,5
+203,Minnesota,2017,Overall,----40-49 years,Female,Hispanic,0,5
+204,Minnesota,2017,Overall,----40-49 years,Female,"White, non-Hispanic",0,5
+205,Minnesota,2017,Overall,----40-49 years,Male,"A/PI, non-Hispanic",0,5
+206,Minnesota,2017,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",0,5
+207,Minnesota,2017,Overall,----40-49 years,Male,"Black, non-Hispanic",0,5
+208,Minnesota,2017,Overall,----40-49 years,Male,Hispanic,0,5
+209,Minnesota,2017,Overall,----40-49 years,Male,"White, non-Hispanic",0.7,5
+210,Minnesota,2017,Overall,----65-74 years,Female,"A/PI, non-Hispanic",0,5
+211,Minnesota,2017,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",0,5
+212,Minnesota,2017,Overall,----65-74 years,Female,"Black, non-Hispanic",33.4,5
+213,Minnesota,2017,Overall,----65-74 years,Female,Hispanic,0,5
+214,Minnesota,2017,Overall,----65-74 years,Female,"White, non-Hispanic",1.7,5
+215,Minnesota,2017,Overall,----65-74 years,Male,"A/PI, non-Hispanic",0,5
+216,Minnesota,2017,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0,5
+217,Minnesota,2017,Overall,----65-74 years,Male,"Black, non-Hispanic",0,5
+218,Minnesota,2017,Overall,----65-74 years,Male,Hispanic,0,5
+219,Minnesota,2017,Overall,----65-74 years,Male,"White, non-Hispanic",2.9,5
+220,Minnesota,2017,Overall,----75-84 years,Female,"A/PI, non-Hispanic",0,5
+221,Minnesota,2017,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0,5
+222,Minnesota,2017,Overall,----75-84 years,Female,"Black, non-Hispanic",39.4,5
+223,Minnesota,2017,Overall,----75-84 years,Female,Hispanic,0,5
+224,Minnesota,2017,Overall,----75-84 years,Female,"White, non-Hispanic",17,5
+225,Minnesota,2017,Overall,----75-84 years,Male,"A/PI, non-Hispanic",0,5
+226,Minnesota,2017,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0,5
+227,Minnesota,2017,Overall,----75-84 years,Male,"Black, non-Hispanic",62.9,5
+228,Minnesota,2017,Overall,----75-84 years,Male,Hispanic,0,5
+229,Minnesota,2017,Overall,----75-84 years,Male,"White, non-Hispanic",6.7,5
+230,Minnesota,2017,Overall,----85+ years,Female,"A/PI, non-Hispanic",0,5
+231,Minnesota,2017,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0,5
+232,Minnesota,2017,Overall,----85+ years,Female,"Black, non-Hispanic",0,5
+233,Minnesota,2017,Overall,----85+ years,Female,Hispanic,0,5
+234,Minnesota,2017,Overall,----85+ years,Female,"White, non-Hispanic",5.9,5
+235,Minnesota,2017,Overall,----85+ years,Male,"A/PI, non-Hispanic",0,5
+236,Minnesota,2017,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0,5
+237,Minnesota,2017,Overall,----85+ years,Male,"Black, non-Hispanic",0,5
+238,Minnesota,2017,Overall,----85+ years,Male,Hispanic,0,5
+239,Minnesota,2017,Overall,----85+ years,Male,"White, non-Hispanic",11.4,5
+240,New York,2017,Overall,----18-29 years,Female,"A/PI, non-Hispanic",13.9,2
+241,New York,2017,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0,2
+242,New York,2017,Overall,----18-29 years,Female,"Black, non-Hispanic",15.5,2
+243,New York,2017,Overall,----18-29 years,Female,Hispanic,0,2
+244,New York,2017,Overall,----18-29 years,Female,"White, non-Hispanic",2.8,2
+245,New York,2017,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0,2
+246,New York,2017,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0,2
+247,New York,2017,Overall,----18-29 years,Male,"Black, non-Hispanic",0,2
+248,New York,2017,Overall,----18-29 years,Male,Hispanic,0,2
+249,New York,2017,Overall,----18-29 years,Male,"White, non-Hispanic",1.4,2
+250,New York,2017,Overall,----30-39 years,Female,"A/PI, non-Hispanic",0,2
+251,New York,2017,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0,2
+252,New York,2017,Overall,----30-39 years,Female,"Black, non-Hispanic",8.3,2
+253,New York,2017,Overall,----30-39 years,Female,Hispanic,14.1,2
+254,New York,2017,Overall,----30-39 years,Female,"White, non-Hispanic",3.8,2
+255,New York,2017,Overall,----30-39 years,Male,"A/PI, non-Hispanic",0,2
+256,New York,2017,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0,2
+257,New York,2017,Overall,----30-39 years,Male,"Black, non-Hispanic",10.4,2
+258,New York,2017,Overall,----30-39 years,Male,Hispanic,0,2
+259,New York,2017,Overall,----30-39 years,Male,"White, non-Hispanic",1.9,2
+260,New York,2017,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0,2
+261,New York,2017,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",0,2
+262,New York,2017,Overall,----40-49 years,Female,"Black, non-Hispanic",9.2,2
+263,New York,2017,Overall,----40-49 years,Female,Hispanic,0,2
+264,New York,2017,Overall,----40-49 years,Female,"White, non-Hispanic",2,2
+265,New York,2017,Overall,----40-49 years,Male,"A/PI, non-Hispanic",0,2
+266,New York,2017,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",0,2
+267,New York,2017,Overall,----40-49 years,Male,"Black, non-Hispanic",11.1,2
+268,New York,2017,Overall,----40-49 years,Male,Hispanic,0,2
+269,New York,2017,Overall,----40-49 years,Male,"White, non-Hispanic",2,2
+270,New York,2017,Overall,----65-74 years,Female,"A/PI, non-Hispanic",64.8,2
+271,New York,2017,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",0,2
+272,New York,2017,Overall,----65-74 years,Female,"Black, non-Hispanic",51.4,2
+273,New York,2017,Overall,----65-74 years,Female,Hispanic,97.9,2
+274,New York,2017,Overall,----65-74 years,Female,"White, non-Hispanic",17.3,2
+275,New York,2017,Overall,----65-74 years,Male,"A/PI, non-Hispanic",0,2
+276,New York,2017,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0,2
+277,New York,2017,Overall,----65-74 years,Male,"Black, non-Hispanic",114.6,2
+278,New York,2017,Overall,----65-74 years,Male,Hispanic,61.4,2
+279,New York,2017,Overall,----65-74 years,Male,"White, non-Hispanic",26.4,2
+280,New York,2017,Overall,----75-84 years,Female,"A/PI, non-Hispanic",0,2
+281,New York,2017,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0,2
+282,New York,2017,Overall,----75-84 years,Female,"Black, non-Hispanic",106.7,2
+283,New York,2017,Overall,----75-84 years,Female,Hispanic,0,2
+284,New York,2017,Overall,----75-84 years,Female,"White, non-Hispanic",32,2
+285,New York,2017,Overall,----75-84 years,Male,"A/PI, non-Hispanic",0,2
+286,New York,2017,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0,2
+287,New York,2017,Overall,----75-84 years,Male,"Black, non-Hispanic",109.2,2
+288,New York,2017,Overall,----75-84 years,Male,Hispanic,0,2
+289,New York,2017,Overall,----75-84 years,Male,"White, non-Hispanic",29.2,2
+290,New York,2017,Overall,----85+ years,Female,"A/PI, non-Hispanic",0,2
+291,New York,2017,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0,2
+292,New York,2017,Overall,----85+ years,Female,"Black, non-Hispanic",205.3,2
+293,New York,2017,Overall,----85+ years,Female,Hispanic,0,2
+294,New York,2017,Overall,----85+ years,Female,"White, non-Hispanic",126.7,2
+295,New York,2017,Overall,----85+ years,Male,"A/PI, non-Hispanic",0,2
+296,New York,2017,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0,2
+297,New York,2017,Overall,----85+ years,Male,"Black, non-Hispanic",0,2
+298,New York,2017,Overall,----85+ years,Male,Hispanic,0,2
+299,New York,2017,Overall,----85+ years,Male,"White, non-Hispanic",75.8,2
+300,Oregon,2017,Overall,----18-29 years,Female,"A/PI, non-Hispanic",6.3,10
+301,Oregon,2017,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0,10
+302,Oregon,2017,Overall,----18-29 years,Female,"Black, non-Hispanic",14.2,10
+303,Oregon,2017,Overall,----18-29 years,Female,Hispanic,0,10
+304,Oregon,2017,Overall,----18-29 years,Female,"White, non-Hispanic",5.2,10
+305,Oregon,2017,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0,10
+306,Oregon,2017,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0,10
+307,Oregon,2017,Overall,----18-29 years,Male,"Black, non-Hispanic",0,10
+308,Oregon,2017,Overall,----18-29 years,Male,Hispanic,0,10
+309,Oregon,2017,Overall,----18-29 years,Male,"White, non-Hispanic",4.2,10
+310,Oregon,2017,Overall,----30-39 years,Female,"A/PI, non-Hispanic",0,10
+311,Oregon,2017,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0,10
+312,Oregon,2017,Overall,----30-39 years,Female,"Black, non-Hispanic",18.6,10
+313,Oregon,2017,Overall,----30-39 years,Female,Hispanic,0,10
+314,Oregon,2017,Overall,----30-39 years,Female,"White, non-Hispanic",5.7,10
+315,Oregon,2017,Overall,----30-39 years,Male,"A/PI, non-Hispanic",0,10
+316,Oregon,2017,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0,10
+317,Oregon,2017,Overall,----30-39 years,Male,"Black, non-Hispanic",0,10
+318,Oregon,2017,Overall,----30-39 years,Male,Hispanic,0,10
+319,Oregon,2017,Overall,----30-39 years,Male,"White, non-Hispanic",0.9,10
+320,Oregon,2017,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0,10
+321,Oregon,2017,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",0,10
+322,Oregon,2017,Overall,----40-49 years,Female,"Black, non-Hispanic",0,10
+323,Oregon,2017,Overall,----40-49 years,Female,Hispanic,6.7,10
+324,Oregon,2017,Overall,----40-49 years,Female,"White, non-Hispanic",5.5,10
+325,Oregon,2017,Overall,----40-49 years,Male,"A/PI, non-Hispanic",0,10
+326,Oregon,2017,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",95.4,10
+327,Oregon,2017,Overall,----40-49 years,Male,"Black, non-Hispanic",22,10
+328,Oregon,2017,Overall,----40-49 years,Male,Hispanic,11.9,10
+329,Oregon,2017,Overall,----40-49 years,Male,"White, non-Hispanic",3.2,10
+330,Oregon,2017,Overall,----65-74 years,Female,"A/PI, non-Hispanic",53.1,10
+331,Oregon,2017,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",0,10
+332,Oregon,2017,Overall,----65-74 years,Female,"Black, non-Hispanic",104.7,10
+333,Oregon,2017,Overall,----65-74 years,Female,Hispanic,0,10
+334,Oregon,2017,Overall,----65-74 years,Female,"White, non-Hispanic",28.8,10
+335,Oregon,2017,Overall,----65-74 years,Male,"A/PI, non-Hispanic",22.9,10
+336,Oregon,2017,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0,10
+337,Oregon,2017,Overall,----65-74 years,Male,"Black, non-Hispanic",0,10
+338,Oregon,2017,Overall,----65-74 years,Male,Hispanic,0,10
+339,Oregon,2017,Overall,----65-74 years,Male,"White, non-Hispanic",34.2,10
+340,Oregon,2017,Overall,----75-84 years,Female,"A/PI, non-Hispanic",39.3,10
+341,Oregon,2017,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0,10
+342,Oregon,2017,Overall,----75-84 years,Female,"Black, non-Hispanic",217.9,10
+343,Oregon,2017,Overall,----75-84 years,Female,Hispanic,92.3,10
+344,Oregon,2017,Overall,----75-84 years,Female,"White, non-Hispanic",112.6,10
+345,Oregon,2017,Overall,----75-84 years,Male,"A/PI, non-Hispanic",0,10
+346,Oregon,2017,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0,10
+347,Oregon,2017,Overall,----75-84 years,Male,"Black, non-Hispanic",0,10
+348,Oregon,2017,Overall,----75-84 years,Male,Hispanic,0,10
+349,Oregon,2017,Overall,----75-84 years,Male,"White, non-Hispanic",64.8,10
+350,Oregon,2017,Overall,----85+ years,Female,"A/PI, non-Hispanic",195.5,10
+351,Oregon,2017,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0,10
+352,Oregon,2017,Overall,----85+ years,Female,"Black, non-Hispanic",0,10
+353,Oregon,2017,Overall,----85+ years,Female,Hispanic,0,10
+354,Oregon,2017,Overall,----85+ years,Female,"White, non-Hispanic",251,10
+355,Oregon,2017,Overall,----85+ years,Male,"A/PI, non-Hispanic",165.6,10
+356,Oregon,2017,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0,10
+357,Oregon,2017,Overall,----85+ years,Male,"Black, non-Hispanic",0,10
+358,Oregon,2017,Overall,----85+ years,Male,Hispanic,343.6,10
+359,Oregon,2017,Overall,----85+ years,Male,"White, non-Hispanic",243.9,10
+360,Tennessee,2017,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0,4
+361,Tennessee,2017,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0,4
+362,Tennessee,2017,Overall,----18-29 years,Female,"Black, non-Hispanic",3.2,4
+363,Tennessee,2017,Overall,----18-29 years,Female,Hispanic,0,4
+364,Tennessee,2017,Overall,----18-29 years,Female,"White, non-Hispanic",1,4
+365,Tennessee,2017,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0,4
+366,Tennessee,2017,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0,4
+367,Tennessee,2017,Overall,----18-29 years,Male,"Black, non-Hispanic",0,4
+368,Tennessee,2017,Overall,----18-29 years,Male,Hispanic,0,4
+369,Tennessee,2017,Overall,----18-29 years,Male,"White, non-Hispanic",0,4
+370,Tennessee,2017,Overall,----30-39 years,Female,"A/PI, non-Hispanic",0,4
+371,Tennessee,2017,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0,4
+372,Tennessee,2017,Overall,----30-39 years,Female,"Black, non-Hispanic",0,4
+373,Tennessee,2017,Overall,----30-39 years,Female,Hispanic,10.2,4
+374,Tennessee,2017,Overall,----30-39 years,Female,"White, non-Hispanic",3.3,4
+375,Tennessee,2017,Overall,----30-39 years,Male,"A/PI, non-Hispanic",0,4
+376,Tennessee,2017,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0,4
+377,Tennessee,2017,Overall,----30-39 years,Male,"Black, non-Hispanic",0,4
+378,Tennessee,2017,Overall,----30-39 years,Male,Hispanic,0,4
+379,Tennessee,2017,Overall,----30-39 years,Male,"White, non-Hispanic",1.1,4
+380,Tennessee,2017,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0,4
+381,Tennessee,2017,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",0,4
+382,Tennessee,2017,Overall,----40-49 years,Female,"Black, non-Hispanic",5.2,4
+383,Tennessee,2017,Overall,----40-49 years,Female,Hispanic,0,4
+384,Tennessee,2017,Overall,----40-49 years,Female,"White, non-Hispanic",4.8,4
+385,Tennessee,2017,Overall,----40-49 years,Male,"A/PI, non-Hispanic",0,4
+386,Tennessee,2017,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",0,4
+387,Tennessee,2017,Overall,----40-49 years,Male,"Black, non-Hispanic",6.1,4
+388,Tennessee,2017,Overall,----40-49 years,Male,Hispanic,0,4
+389,Tennessee,2017,Overall,----40-49 years,Male,"White, non-Hispanic",3.7,4
+390,Tennessee,2017,Overall,----65-74 years,Female,"A/PI, non-Hispanic",0,4
+391,Tennessee,2017,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",0,4
+392,Tennessee,2017,Overall,----65-74 years,Female,"Black, non-Hispanic",0,4
+393,Tennessee,2017,Overall,----65-74 years,Female,Hispanic,0,4
+394,Tennessee,2017,Overall,----65-74 years,Female,"White, non-Hispanic",20.2,4
+395,Tennessee,2017,Overall,----65-74 years,Male,"A/PI, non-Hispanic",0,4
+396,Tennessee,2017,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0,4
+397,Tennessee,2017,Overall,----65-74 years,Male,"Black, non-Hispanic",28.5,4
+398,Tennessee,2017,Overall,----65-74 years,Male,Hispanic,0,4
+399,Tennessee,2017,Overall,----65-74 years,Male,"White, non-Hispanic",19.1,4
+400,Tennessee,2017,Overall,----75-84 years,Female,"A/PI, non-Hispanic",0,4
+401,Tennessee,2017,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0,4
+402,Tennessee,2017,Overall,----75-84 years,Female,"Black, non-Hispanic",25.1,4
+403,Tennessee,2017,Overall,----75-84 years,Female,Hispanic,0,4
+404,Tennessee,2017,Overall,----75-84 years,Female,"White, non-Hispanic",30.7,4
+405,Tennessee,2017,Overall,----75-84 years,Male,"A/PI, non-Hispanic",0,4
+406,Tennessee,2017,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0,4
+407,Tennessee,2017,Overall,----75-84 years,Male,"Black, non-Hispanic",0,4
+408,Tennessee,2017,Overall,----75-84 years,Male,Hispanic,0,4
+409,Tennessee,2017,Overall,----75-84 years,Male,"White, non-Hispanic",27.3,4
+410,Tennessee,2017,Overall,----85+ years,Female,"A/PI, non-Hispanic",0,4
+411,Tennessee,2017,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0,4
+412,Tennessee,2017,Overall,----85+ years,Female,"Black, non-Hispanic",0,4
+413,Tennessee,2017,Overall,----85+ years,Female,Hispanic,0,4
+414,Tennessee,2017,Overall,----85+ years,Female,"White, non-Hispanic",44.2,4
+415,Tennessee,2017,Overall,----85+ years,Male,"A/PI, non-Hispanic",0,4
+416,Tennessee,2017,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0,4
+417,Tennessee,2017,Overall,----85+ years,Male,"Black, non-Hispanic",0,4
+418,Tennessee,2017,Overall,----85+ years,Male,Hispanic,699.3,4
+419,Tennessee,2017,Overall,----85+ years,Male,"White, non-Hispanic",14.6,4
+420,California,2018,Overall,----18-29 years,Female,"A/PI, non-Hispanic",1.1,9
+421,California,2018,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0,9
+422,California,2018,Overall,----18-29 years,Female,"Black, non-Hispanic",6.5,9
+423,California,2018,Overall,----18-29 years,Female,Hispanic,3.9,9
+424,California,2018,Overall,----18-29 years,Female,"White, non-Hispanic",2,9
+425,California,2018,Overall,----18-29 years,Male,"A/PI, non-Hispanic",1.2,9
+426,California,2018,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0,9
+427,California,2018,Overall,----18-29 years,Male,"Black, non-Hispanic",3.1,9
+428,California,2018,Overall,----18-29 years,Male,Hispanic,1.3,9
+429,California,2018,Overall,----18-29 years,Male,"White, non-Hispanic",1.9,9
+430,California,2018,Overall,----30-39 years,Female,"A/PI, non-Hispanic",0,9
+431,California,2018,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0,9
+432,California,2018,Overall,----30-39 years,Female,"Black, non-Hispanic",3.9,9
+433,California,2018,Overall,----30-39 years,Female,Hispanic,4.7,9
+434,California,2018,Overall,----30-39 years,Female,"White, non-Hispanic",3.6,9
+435,California,2018,Overall,----30-39 years,Male,"A/PI, non-Hispanic",0,9
+436,California,2018,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",102.5,9
+437,California,2018,Overall,----30-39 years,Male,"Black, non-Hispanic",4.1,9
+438,California,2018,Overall,----30-39 years,Male,Hispanic,1.4,9
+439,California,2018,Overall,----30-39 years,Male,"White, non-Hispanic",1.6,9
+440,California,2018,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0,9
+441,California,2018,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",0,9
+442,California,2018,Overall,----40-49 years,Female,"Black, non-Hispanic",17.5,9
+443,California,2018,Overall,----40-49 years,Female,Hispanic,5.6,9
+444,California,2018,Overall,----40-49 years,Female,"White, non-Hispanic",3.4,9
+445,California,2018,Overall,----40-49 years,Male,"A/PI, non-Hispanic",1.3,9
+446,California,2018,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",0,9
+447,California,2018,Overall,----40-49 years,Male,"Black, non-Hispanic",9.7,9
+448,California,2018,Overall,----40-49 years,Male,Hispanic,6.9,9
+449,California,2018,Overall,----40-49 years,Male,"White, non-Hispanic",5,9
+450,California,2018,Overall,----65-74 years,Female,"A/PI, non-Hispanic",22.9,9
+451,California,2018,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",0,9
+452,California,2018,Overall,----65-74 years,Female,"Black, non-Hispanic",48.2,9
+453,California,2018,Overall,----65-74 years,Female,Hispanic,36.7,9
+454,California,2018,Overall,----65-74 years,Female,"White, non-Hispanic",52,9
+455,California,2018,Overall,----65-74 years,Male,"A/PI, non-Hispanic",23.7,9
+456,California,2018,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0,9
+457,California,2018,Overall,----65-74 years,Male,"Black, non-Hispanic",53.7,9
+458,California,2018,Overall,----65-74 years,Male,Hispanic,50.9,9
+459,California,2018,Overall,----65-74 years,Male,"White, non-Hispanic",52,9
+460,California,2018,Overall,----75-84 years,Female,"A/PI, non-Hispanic",78.2,9
+461,California,2018,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0,9
+462,California,2018,Overall,----75-84 years,Female,"Black, non-Hispanic",86,9
+463,California,2018,Overall,----75-84 years,Female,Hispanic,101.1,9
+464,California,2018,Overall,----75-84 years,Female,"White, non-Hispanic",122,9
+465,California,2018,Overall,----75-84 years,Male,"A/PI, non-Hispanic",104,9
+466,California,2018,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",502.5,9
+467,California,2018,Overall,----75-84 years,Male,"Black, non-Hispanic",105.6,9
+468,California,2018,Overall,----75-84 years,Male,Hispanic,15.2,9
+469,California,2018,Overall,----75-84 years,Male,"White, non-Hispanic",85,9
+470,California,2018,Overall,----85+ years,Female,"A/PI, non-Hispanic",246.1,9
+471,California,2018,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0,9
+472,California,2018,Overall,----85+ years,Female,"Black, non-Hispanic",244.7,9
+473,California,2018,Overall,----85+ years,Female,Hispanic,140,9
+474,California,2018,Overall,----85+ years,Female,"White, non-Hispanic",273.9,9
+475,California,2018,Overall,----85+ years,Male,"A/PI, non-Hispanic",178.9,9
+476,California,2018,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0,9
+477,California,2018,Overall,----85+ years,Male,"Black, non-Hispanic",269.3,9
+478,California,2018,Overall,----85+ years,Male,Hispanic,109.3,9
+479,California,2018,Overall,----85+ years,Male,"White, non-Hispanic",192.4,9
+480,Georgia,2018,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0,4
+481,Georgia,2018,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0,4
+482,Georgia,2018,Overall,----18-29 years,Female,"Black, non-Hispanic",3.6,4
+483,Georgia,2018,Overall,----18-29 years,Female,Hispanic,2.3,4
+484,Georgia,2018,Overall,----18-29 years,Female,"White, non-Hispanic",0,4
+485,Georgia,2018,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0,4
+486,Georgia,2018,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0,4
+487,Georgia,2018,Overall,----18-29 years,Male,"Black, non-Hispanic",0.6,4
+488,Georgia,2018,Overall,----18-29 years,Male,Hispanic,2.1,4
+489,Georgia,2018,Overall,----18-29 years,Male,"White, non-Hispanic",0,4
+490,Georgia,2018,Overall,----30-39 years,Female,"A/PI, non-Hispanic",3.5,4
+491,Georgia,2018,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0,4
+492,Georgia,2018,Overall,----30-39 years,Female,"Black, non-Hispanic",1.4,4
+493,Georgia,2018,Overall,----30-39 years,Female,Hispanic,0,4
+494,Georgia,2018,Overall,----30-39 years,Female,"White, non-Hispanic",1,4
+495,Georgia,2018,Overall,----30-39 years,Male,"A/PI, non-Hispanic",0,4
+496,Georgia,2018,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0,4
+497,Georgia,2018,Overall,----30-39 years,Male,"Black, non-Hispanic",0.9,4
+498,Georgia,2018,Overall,----30-39 years,Male,Hispanic,2.4,4
+499,Georgia,2018,Overall,----30-39 years,Male,"White, non-Hispanic",0,4
+500,Georgia,2018,Overall,----40-49 years,Female,"A/PI, non-Hispanic",3.7,4
+501,Georgia,2018,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",0,4
+502,Georgia,2018,Overall,----40-49 years,Female,"Black, non-Hispanic",5.1,4
+503,Georgia,2018,Overall,----40-49 years,Female,Hispanic,0,4
+504,Georgia,2018,Overall,----40-49 years,Female,"White, non-Hispanic",4.7,4
+505,Georgia,2018,Overall,----40-49 years,Male,"A/PI, non-Hispanic",0,4
+506,Georgia,2018,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",0,4
+507,Georgia,2018,Overall,----40-49 years,Male,"Black, non-Hispanic",4.7,4
+508,Georgia,2018,Overall,----40-49 years,Male,Hispanic,0,4
+509,Georgia,2018,Overall,----40-49 years,Male,"White, non-Hispanic",1.9,4
+510,Georgia,2018,Overall,----65-74 years,Female,"A/PI, non-Hispanic",10,4
+511,Georgia,2018,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",0,4
+512,Georgia,2018,Overall,----65-74 years,Female,"Black, non-Hispanic",20.2,4
+513,Georgia,2018,Overall,----65-74 years,Female,Hispanic,0,4
+514,Georgia,2018,Overall,----65-74 years,Female,"White, non-Hispanic",15.1,4
+515,Georgia,2018,Overall,----65-74 years,Male,"A/PI, non-Hispanic",0,4
+516,Georgia,2018,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0,4
+517,Georgia,2018,Overall,----65-74 years,Male,"Black, non-Hispanic",11.4,4
+518,Georgia,2018,Overall,----65-74 years,Male,Hispanic,33.8,4
+519,Georgia,2018,Overall,----65-74 years,Male,"White, non-Hispanic",18.7,4
+520,Georgia,2018,Overall,----75-84 years,Female,"A/PI, non-Hispanic",24.3,4
+521,Georgia,2018,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0,4
+522,Georgia,2018,Overall,----75-84 years,Female,"Black, non-Hispanic",33.1,4
+523,Georgia,2018,Overall,----75-84 years,Female,Hispanic,70.4,4
+524,Georgia,2018,Overall,----75-84 years,Female,"White, non-Hispanic",33.4,4
+525,Georgia,2018,Overall,----75-84 years,Male,"A/PI, non-Hispanic",26.8,4
+526,Georgia,2018,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0,4
+527,Georgia,2018,Overall,----75-84 years,Male,"Black, non-Hispanic",33.9,4
+528,Georgia,2018,Overall,----75-84 years,Male,Hispanic,0,4
+529,Georgia,2018,Overall,----75-84 years,Male,"White, non-Hispanic",18.6,4
+530,Georgia,2018,Overall,----85+ years,Female,"A/PI, non-Hispanic",87.3,4
+531,Georgia,2018,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0,4
+532,Georgia,2018,Overall,----85+ years,Female,"Black, non-Hispanic",68.2,4
+533,Georgia,2018,Overall,----85+ years,Female,Hispanic,164.9,4
+534,Georgia,2018,Overall,----85+ years,Female,"White, non-Hispanic",94,4
+535,Georgia,2018,Overall,----85+ years,Male,"A/PI, non-Hispanic",111.7,4
+536,Georgia,2018,Overall,----85+ years,Male,"AI/AN, non-Hispanic",3571.4,4
+537,Georgia,2018,Overall,----85+ years,Male,"Black, non-Hispanic",0,4
+538,Georgia,2018,Overall,----85+ years,Male,Hispanic,365.6,4
+539,Georgia,2018,Overall,----85+ years,Male,"White, non-Hispanic",90.9,4
+540,Maryland,2018,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0,3
+541,Maryland,2018,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0,3
+542,Maryland,2018,Overall,----18-29 years,Female,"Black, non-Hispanic",5.2,3
+543,Maryland,2018,Overall,----18-29 years,Female,Hispanic,0,3
+544,Maryland,2018,Overall,----18-29 years,Female,"White, non-Hispanic",1.8,3
+545,Maryland,2018,Overall,----18-29 years,Male,"A/PI, non-Hispanic",14,3
+546,Maryland,2018,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0,3
+547,Maryland,2018,Overall,----18-29 years,Male,"Black, non-Hispanic",2.7,3
+548,Maryland,2018,Overall,----18-29 years,Male,Hispanic,0,3
+549,Maryland,2018,Overall,----18-29 years,Male,"White, non-Hispanic",0.8,3
+550,Maryland,2018,Overall,----30-39 years,Female,"A/PI, non-Hispanic",6.1,3
+551,Maryland,2018,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0,3
+552,Maryland,2018,Overall,----30-39 years,Female,"Black, non-Hispanic",3.1,3
+553,Maryland,2018,Overall,----30-39 years,Female,Hispanic,0,3
+554,Maryland,2018,Overall,----30-39 years,Female,"White, non-Hispanic",2.9,3
+555,Maryland,2018,Overall,----30-39 years,Male,"A/PI, non-Hispanic",0,3
+556,Maryland,2018,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0,3
+557,Maryland,2018,Overall,----30-39 years,Male,"Black, non-Hispanic",1.9,3
+558,Maryland,2018,Overall,----30-39 years,Male,Hispanic,6.3,3
+559,Maryland,2018,Overall,----30-39 years,Male,"White, non-Hispanic",2.9,3
+560,Maryland,2018,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0,3
+561,Maryland,2018,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",0,3
+562,Maryland,2018,Overall,----40-49 years,Female,"Black, non-Hispanic",5.2,3
+563,Maryland,2018,Overall,----40-49 years,Female,Hispanic,0,3
+564,Maryland,2018,Overall,----40-49 years,Female,"White, non-Hispanic",5.4,3
+565,Maryland,2018,Overall,----40-49 years,Male,"A/PI, non-Hispanic",0,3
+566,Maryland,2018,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",0,3
+567,Maryland,2018,Overall,----40-49 years,Male,"Black, non-Hispanic",10.7,3
+568,Maryland,2018,Overall,----40-49 years,Male,Hispanic,0,3
+569,Maryland,2018,Overall,----40-49 years,Male,"White, non-Hispanic",1.1,3
+570,Maryland,2018,Overall,----65-74 years,Female,"A/PI, non-Hispanic",33.8,3
+571,Maryland,2018,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",0,3
+572,Maryland,2018,Overall,----65-74 years,Female,"Black, non-Hispanic",39.8,3
+573,Maryland,2018,Overall,----65-74 years,Female,Hispanic,0,3
+574,Maryland,2018,Overall,----65-74 years,Female,"White, non-Hispanic",22.4,3
+575,Maryland,2018,Overall,----65-74 years,Male,"A/PI, non-Hispanic",0,3
+576,Maryland,2018,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0,3
+577,Maryland,2018,Overall,----65-74 years,Male,"Black, non-Hispanic",46.8,3
+578,Maryland,2018,Overall,----65-74 years,Male,Hispanic,0,3
+579,Maryland,2018,Overall,----65-74 years,Male,"White, non-Hispanic",23.9,3
+580,Maryland,2018,Overall,----75-84 years,Female,"A/PI, non-Hispanic",0,3
+581,Maryland,2018,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0,3
+582,Maryland,2018,Overall,----75-84 years,Female,"Black, non-Hispanic",44.3,3
+583,Maryland,2018,Overall,----75-84 years,Female,Hispanic,281.2,3
+584,Maryland,2018,Overall,----75-84 years,Female,"White, non-Hispanic",61.7,3
+585,Maryland,2018,Overall,----75-84 years,Male,"A/PI, non-Hispanic",84,3
+586,Maryland,2018,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0,3
+587,Maryland,2018,Overall,----75-84 years,Male,"Black, non-Hispanic",37.8,3
+588,Maryland,2018,Overall,----75-84 years,Male,Hispanic,0,3
+589,Maryland,2018,Overall,----75-84 years,Male,"White, non-Hispanic",59.4,3
+590,Maryland,2018,Overall,----85+ years,Female,"A/PI, non-Hispanic",105.8,3
+591,Maryland,2018,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0,3
+592,Maryland,2018,Overall,----85+ years,Female,"Black, non-Hispanic",50,3
+593,Maryland,2018,Overall,----85+ years,Female,Hispanic,180.5,3
+594,Maryland,2018,Overall,----85+ years,Female,"White, non-Hispanic",100,3
+595,Maryland,2018,Overall,----85+ years,Male,"A/PI, non-Hispanic",283.3,3
+596,Maryland,2018,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0,3
+597,Maryland,2018,Overall,----85+ years,Male,"Black, non-Hispanic",30.3,3
+598,Maryland,2018,Overall,----85+ years,Male,Hispanic,0,3
+599,Maryland,2018,Overall,----85+ years,Male,"White, non-Hispanic",82.8,3
+600,Minnesota,2018,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0,5
+601,Minnesota,2018,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0,5
+602,Minnesota,2018,Overall,----18-29 years,Female,"Black, non-Hispanic",6.2,5
+603,Minnesota,2018,Overall,----18-29 years,Female,Hispanic,0,5
+604,Minnesota,2018,Overall,----18-29 years,Female,"White, non-Hispanic",0,5
+605,Minnesota,2018,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0,5
+606,Minnesota,2018,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0,5
+607,Minnesota,2018,Overall,----18-29 years,Male,"Black, non-Hispanic",3.1,5
+608,Minnesota,2018,Overall,----18-29 years,Male,Hispanic,0,5
+609,Minnesota,2018,Overall,----18-29 years,Male,"White, non-Hispanic",0.6,5
+610,Minnesota,2018,Overall,----30-39 years,Female,"A/PI, non-Hispanic",0,5
+611,Minnesota,2018,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0,5
+612,Minnesota,2018,Overall,----30-39 years,Female,"Black, non-Hispanic",7.5,5
+613,Minnesota,2018,Overall,----30-39 years,Female,Hispanic,0,5
+614,Minnesota,2018,Overall,----30-39 years,Female,"White, non-Hispanic",1.9,5
+615,Minnesota,2018,Overall,----30-39 years,Male,"A/PI, non-Hispanic",0,5
+616,Minnesota,2018,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0,5
+617,Minnesota,2018,Overall,----30-39 years,Male,"Black, non-Hispanic",0,5
+618,Minnesota,2018,Overall,----30-39 years,Male,Hispanic,0,5
+619,Minnesota,2018,Overall,----30-39 years,Male,"White, non-Hispanic",1.2,5
+620,Minnesota,2018,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0,5
+621,Minnesota,2018,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",0,5
+622,Minnesota,2018,Overall,----40-49 years,Female,"Black, non-Hispanic",15.4,5
+623,Minnesota,2018,Overall,----40-49 years,Female,Hispanic,0,5
+624,Minnesota,2018,Overall,----40-49 years,Female,"White, non-Hispanic",5,5
+625,Minnesota,2018,Overall,----40-49 years,Male,"A/PI, non-Hispanic",6.2,5
+626,Minnesota,2018,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",0,5
+627,Minnesota,2018,Overall,----40-49 years,Male,"Black, non-Hispanic",15.3,5
+628,Minnesota,2018,Overall,----40-49 years,Male,Hispanic,0,5
+629,Minnesota,2018,Overall,----40-49 years,Male,"White, non-Hispanic",1.4,5
+630,Minnesota,2018,Overall,----65-74 years,Female,"A/PI, non-Hispanic",19,5
+631,Minnesota,2018,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",151.7,5
+632,Minnesota,2018,Overall,----65-74 years,Female,"Black, non-Hispanic",15.6,5
+633,Minnesota,2018,Overall,----65-74 years,Female,Hispanic,38.8,5
+634,Minnesota,2018,Overall,----65-74 years,Female,"White, non-Hispanic",12.3,5
+635,Minnesota,2018,Overall,----65-74 years,Male,"A/PI, non-Hispanic",23.5,5
+636,Minnesota,2018,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0,5
+637,Minnesota,2018,Overall,----65-74 years,Male,"Black, non-Hispanic",18.7,5
+638,Minnesota,2018,Overall,----65-74 years,Male,Hispanic,43.2,5
+639,Minnesota,2018,Overall,----65-74 years,Male,"White, non-Hispanic",9.3,5
+640,Minnesota,2018,Overall,----75-84 years,Female,"A/PI, non-Hispanic",41.3,5
+641,Minnesota,2018,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0,5
+642,Minnesota,2018,Overall,----75-84 years,Female,"Black, non-Hispanic",36.6,5
+643,Minnesota,2018,Overall,----75-84 years,Female,Hispanic,0,5
+644,Minnesota,2018,Overall,----75-84 years,Female,"White, non-Hispanic",38.8,5
+645,Minnesota,2018,Overall,----75-84 years,Male,"A/PI, non-Hispanic",114.2,5
+646,Minnesota,2018,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0,5
+647,Minnesota,2018,Overall,----75-84 years,Male,"Black, non-Hispanic",0,5
+648,Minnesota,2018,Overall,----75-84 years,Male,Hispanic,0,5
+649,Minnesota,2018,Overall,----75-84 years,Male,"White, non-Hispanic",29.6,5
+650,Minnesota,2018,Overall,----85+ years,Female,"A/PI, non-Hispanic",103.4,5
+651,Minnesota,2018,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0,5
+652,Minnesota,2018,Overall,----85+ years,Female,"Black, non-Hispanic",110.5,5
+653,Minnesota,2018,Overall,----85+ years,Female,Hispanic,0,5
+654,Minnesota,2018,Overall,----85+ years,Female,"White, non-Hispanic",76.8,5
+655,Minnesota,2018,Overall,----85+ years,Male,"A/PI, non-Hispanic",0,5
+656,Minnesota,2018,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0,5
+657,Minnesota,2018,Overall,----85+ years,Male,"Black, non-Hispanic",0,5
+658,Minnesota,2018,Overall,----85+ years,Male,Hispanic,0,5
+659,Minnesota,2018,Overall,----85+ years,Male,"White, non-Hispanic",44,5
+660,New Mexico,2018,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0,6
+661,New Mexico,2018,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0,6
+662,New Mexico,2018,Overall,----18-29 years,Female,"Black, non-Hispanic",0,6
+663,New Mexico,2018,Overall,----18-29 years,Female,Hispanic,0,6
+664,New Mexico,2018,Overall,----18-29 years,Female,"White, non-Hispanic",18.3,6
+665,New Mexico,2018,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0,6
+666,New Mexico,2018,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0,6
+667,New Mexico,2018,Overall,----18-29 years,Male,"Black, non-Hispanic",0,6
+668,New Mexico,2018,Overall,----18-29 years,Male,Hispanic,0,6
+669,New Mexico,2018,Overall,----18-29 years,Male,"White, non-Hispanic",0,6
+670,New Mexico,2018,Overall,----30-39 years,Female,"A/PI, non-Hispanic",0,6
+671,New Mexico,2018,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",35.1,6
+672,New Mexico,2018,Overall,----30-39 years,Female,"Black, non-Hispanic",0,6
+673,New Mexico,2018,Overall,----30-39 years,Female,Hispanic,3.9,6
+674,New Mexico,2018,Overall,----30-39 years,Female,"White, non-Hispanic",6,6
+675,New Mexico,2018,Overall,----30-39 years,Male,"A/PI, non-Hispanic",60.9,6
+676,New Mexico,2018,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0,6
+677,New Mexico,2018,Overall,----30-39 years,Male,"Black, non-Hispanic",59.7,6
+678,New Mexico,2018,Overall,----30-39 years,Male,Hispanic,11.8,6
+679,New Mexico,2018,Overall,----30-39 years,Male,"White, non-Hispanic",5.6,6
+680,New Mexico,2018,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0,6
+681,New Mexico,2018,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",92.3,6
+682,New Mexico,2018,Overall,----40-49 years,Female,"Black, non-Hispanic",0,6
+683,New Mexico,2018,Overall,----40-49 years,Female,Hispanic,4.8,6
+684,New Mexico,2018,Overall,----40-49 years,Female,"White, non-Hispanic",13.3,6
+685,New Mexico,2018,Overall,----40-49 years,Male,"A/PI, non-Hispanic",0,6
+686,New Mexico,2018,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",109.3,6
+687,New Mexico,2018,Overall,----40-49 years,Male,"Black, non-Hispanic",0,6
+688,New Mexico,2018,Overall,----40-49 years,Male,Hispanic,4.9,6
+689,New Mexico,2018,Overall,----40-49 years,Male,"White, non-Hispanic",19.4,6
+690,New Mexico,2018,Overall,----65-74 years,Female,"A/PI, non-Hispanic",0,6
+691,New Mexico,2018,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",0,6
+692,New Mexico,2018,Overall,----65-74 years,Female,"Black, non-Hispanic",0,6
+693,New Mexico,2018,Overall,----65-74 years,Female,Hispanic,72.5,6
+694,New Mexico,2018,Overall,----65-74 years,Female,"White, non-Hispanic",43.2,6
+695,New Mexico,2018,Overall,----65-74 years,Male,"A/PI, non-Hispanic",0,6
+696,New Mexico,2018,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0,6
+697,New Mexico,2018,Overall,----65-74 years,Male,"Black, non-Hispanic",0,6
+698,New Mexico,2018,Overall,----65-74 years,Male,Hispanic,69.2,6
+699,New Mexico,2018,Overall,----65-74 years,Male,"White, non-Hispanic",27.3,6
+700,New Mexico,2018,Overall,----75-84 years,Female,"A/PI, non-Hispanic",0,6
+701,New Mexico,2018,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0,6
+702,New Mexico,2018,Overall,----75-84 years,Female,"Black, non-Hispanic",0,6
+703,New Mexico,2018,Overall,----75-84 years,Female,Hispanic,95.7,6
+704,New Mexico,2018,Overall,----75-84 years,Female,"White, non-Hispanic",143.5,6
+705,New Mexico,2018,Overall,----75-84 years,Male,"A/PI, non-Hispanic",0,6
+706,New Mexico,2018,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0,6
+707,New Mexico,2018,Overall,----75-84 years,Male,"Black, non-Hispanic",0,6
+708,New Mexico,2018,Overall,----75-84 years,Male,Hispanic,45.7,6
+709,New Mexico,2018,Overall,----75-84 years,Male,"White, non-Hispanic",105.7,6
+710,New Mexico,2018,Overall,----85+ years,Female,"A/PI, non-Hispanic",1176.5,6
+711,New Mexico,2018,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0,6
+712,New Mexico,2018,Overall,----85+ years,Female,"Black, non-Hispanic",0,6
+713,New Mexico,2018,Overall,----85+ years,Female,Hispanic,273.1,6
+714,New Mexico,2018,Overall,----85+ years,Female,"White, non-Hispanic",230.3,6
+715,New Mexico,2018,Overall,----85+ years,Male,"A/PI, non-Hispanic",0,6
+716,New Mexico,2018,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0,6
+717,New Mexico,2018,Overall,----85+ years,Male,"Black, non-Hispanic",0,6
+718,New Mexico,2018,Overall,----85+ years,Male,Hispanic,71,6
+719,New Mexico,2018,Overall,----85+ years,Male,"White, non-Hispanic",156.4,6
+720,New York,2018,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0,2
+721,New York,2018,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0,2
+722,New York,2018,Overall,----18-29 years,Female,"Black, non-Hispanic",0,2
+723,New York,2018,Overall,----18-29 years,Female,Hispanic,0,2
+724,New York,2018,Overall,----18-29 years,Female,"White, non-Hispanic",5.6,2
+725,New York,2018,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0,2
+726,New York,2018,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0,2
+727,New York,2018,Overall,----18-29 years,Male,"Black, non-Hispanic",5.5,2
+728,New York,2018,Overall,----18-29 years,Male,Hispanic,0,2
+729,New York,2018,Overall,----18-29 years,Male,"White, non-Hispanic",6.9,2
+730,New York,2018,Overall,----30-39 years,Female,"A/PI, non-Hispanic",19.2,2
+731,New York,2018,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0,2
+732,New York,2018,Overall,----30-39 years,Female,"Black, non-Hispanic",32.1,2
+733,New York,2018,Overall,----30-39 years,Female,Hispanic,13.5,2
+734,New York,2018,Overall,----30-39 years,Female,"White, non-Hispanic",0,2
+735,New York,2018,Overall,----30-39 years,Male,"A/PI, non-Hispanic",0,2
+736,New York,2018,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0,2
+737,New York,2018,Overall,----30-39 years,Male,"Black, non-Hispanic",0,2
+738,New York,2018,Overall,----30-39 years,Male,Hispanic,28.3,2
+739,New York,2018,Overall,----30-39 years,Male,"White, non-Hispanic",3.7,2
+740,New York,2018,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0,2
+741,New York,2018,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",0,2
+742,New York,2018,Overall,----40-49 years,Female,"Black, non-Hispanic",27.7,2
+743,New York,2018,Overall,----40-49 years,Female,Hispanic,0,2
+744,New York,2018,Overall,----40-49 years,Female,"White, non-Hispanic",4,2
+745,New York,2018,Overall,----40-49 years,Male,"A/PI, non-Hispanic",0,2
+746,New York,2018,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",0,2
+747,New York,2018,Overall,----40-49 years,Male,"Black, non-Hispanic",11.3,2
+748,New York,2018,Overall,----40-49 years,Male,Hispanic,19.1,2
+749,New York,2018,Overall,----40-49 years,Male,"White, non-Hispanic",12.5,2
+750,New York,2018,Overall,----65-74 years,Female,"A/PI, non-Hispanic",62.2,2
+751,New York,2018,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",0,2
+752,New York,2018,Overall,----65-74 years,Female,"Black, non-Hispanic",83.8,2
+753,New York,2018,Overall,----65-74 years,Female,Hispanic,229.3,2
+754,New York,2018,Overall,----65-74 years,Female,"White, non-Hispanic",52.5,2
+755,New York,2018,Overall,----65-74 years,Male,"A/PI, non-Hispanic",0,2
+756,New York,2018,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0,2
+757,New York,2018,Overall,----65-74 years,Male,"Black, non-Hispanic",111.7,2
+758,New York,2018,Overall,----65-74 years,Male,Hispanic,58.1,2
+759,New York,2018,Overall,----65-74 years,Male,"White, non-Hispanic",53.7,2
+760,New York,2018,Overall,----75-84 years,Female,"A/PI, non-Hispanic",0,2
+761,New York,2018,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0,2
+762,New York,2018,Overall,----75-84 years,Female,"Black, non-Hispanic",135.3,2
+763,New York,2018,Overall,----75-84 years,Female,Hispanic,98,2
+764,New York,2018,Overall,----75-84 years,Female,"White, non-Hispanic",105.7,2
+765,New York,2018,Overall,----75-84 years,Male,"A/PI, non-Hispanic",155.8,2
+766,New York,2018,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0,2
+767,New York,2018,Overall,----75-84 years,Male,"Black, non-Hispanic",155.1,2
+768,New York,2018,Overall,----75-84 years,Male,Hispanic,139.9,2
+769,New York,2018,Overall,----75-84 years,Male,"White, non-Hispanic",64.6,2
+770,New York,2018,Overall,----85+ years,Female,"A/PI, non-Hispanic",0,2
+771,New York,2018,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0,2
+772,New York,2018,Overall,----85+ years,Female,"Black, non-Hispanic",97.7,2
+773,New York,2018,Overall,----85+ years,Female,Hispanic,273.2,2
+774,New York,2018,Overall,----85+ years,Female,"White, non-Hispanic",139.3,2
+775,New York,2018,Overall,----85+ years,Male,"A/PI, non-Hispanic",0,2
+776,New York,2018,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0,2
+777,New York,2018,Overall,----85+ years,Male,"Black, non-Hispanic",0,2
+778,New York,2018,Overall,----85+ years,Male,Hispanic,0,2
+779,New York,2018,Overall,----85+ years,Male,"White, non-Hispanic",238.8,2
+780,Oregon,2018,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0,10
+781,Oregon,2018,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0,10
+782,Oregon,2018,Overall,----18-29 years,Female,"Black, non-Hispanic",0,10
+783,Oregon,2018,Overall,----18-29 years,Female,Hispanic,0,10
+784,Oregon,2018,Overall,----18-29 years,Female,"White, non-Hispanic",4.2,10
+785,Oregon,2018,Overall,----18-29 years,Male,"A/PI, non-Hispanic",6.2,10
+786,Oregon,2018,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0,10
+787,Oregon,2018,Overall,----18-29 years,Male,"Black, non-Hispanic",0,10
+788,Oregon,2018,Overall,----18-29 years,Male,Hispanic,0,10
+789,Oregon,2018,Overall,----18-29 years,Male,"White, non-Hispanic",0,10
+790,Oregon,2018,Overall,----30-39 years,Female,"A/PI, non-Hispanic",0,10
+791,Oregon,2018,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0,10
+792,Oregon,2018,Overall,----30-39 years,Female,"Black, non-Hispanic",0,10
+793,Oregon,2018,Overall,----30-39 years,Female,Hispanic,0,10
+794,Oregon,2018,Overall,----30-39 years,Female,"White, non-Hispanic",6.6,10
+795,Oregon,2018,Overall,----30-39 years,Male,"A/PI, non-Hispanic",0,10
+796,Oregon,2018,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0,10
+797,Oregon,2018,Overall,----30-39 years,Male,"Black, non-Hispanic",0,10
+798,Oregon,2018,Overall,----30-39 years,Male,Hispanic,0,10
+799,Oregon,2018,Overall,----30-39 years,Male,"White, non-Hispanic",0.9,10
+800,Oregon,2018,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0,10
+801,Oregon,2018,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",0,10
+802,Oregon,2018,Overall,----40-49 years,Female,"Black, non-Hispanic",24.1,10
+803,Oregon,2018,Overall,----40-49 years,Female,Hispanic,19.6,10
+804,Oregon,2018,Overall,----40-49 years,Female,"White, non-Hispanic",13.1,10
+805,Oregon,2018,Overall,----40-49 years,Male,"A/PI, non-Hispanic",8,10
+806,Oregon,2018,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",0,10
+807,Oregon,2018,Overall,----40-49 years,Male,"Black, non-Hispanic",0,10
+808,Oregon,2018,Overall,----40-49 years,Male,Hispanic,5.8,10
+809,Oregon,2018,Overall,----40-49 years,Male,"White, non-Hispanic",5.2,10
+810,Oregon,2018,Overall,----65-74 years,Female,"A/PI, non-Hispanic",33.1,10
+811,Oregon,2018,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",172.4,10
+812,Oregon,2018,Overall,----65-74 years,Female,"Black, non-Hispanic",101.4,10
+813,Oregon,2018,Overall,----65-74 years,Female,Hispanic,91.5,10
+814,Oregon,2018,Overall,----65-74 years,Female,"White, non-Hispanic",40.9,10
+815,Oregon,2018,Overall,----65-74 years,Male,"A/PI, non-Hispanic",64.7,10
+816,Oregon,2018,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",205.8,10
+817,Oregon,2018,Overall,----65-74 years,Male,"Black, non-Hispanic",105.6,10
+818,Oregon,2018,Overall,----65-74 years,Male,Hispanic,0,10
+819,Oregon,2018,Overall,----65-74 years,Male,"White, non-Hispanic",28.6,10
+820,Oregon,2018,Overall,----75-84 years,Female,"A/PI, non-Hispanic",111,10
+821,Oregon,2018,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",1136.4,10
+822,Oregon,2018,Overall,----75-84 years,Female,"Black, non-Hispanic",309.9,10
+823,Oregon,2018,Overall,----75-84 years,Female,Hispanic,82.4,10
+824,Oregon,2018,Overall,----75-84 years,Female,"White, non-Hispanic",88.2,10
+825,Oregon,2018,Overall,----75-84 years,Male,"A/PI, non-Hispanic",50.1,10
+826,Oregon,2018,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0,10
+827,Oregon,2018,Overall,----75-84 years,Male,"Black, non-Hispanic",149,10
+828,Oregon,2018,Overall,----75-84 years,Male,Hispanic,117.8,10
+829,Oregon,2018,Overall,----75-84 years,Male,"White, non-Hispanic",94,10
+830,Oregon,2018,Overall,----85+ years,Female,"A/PI, non-Hispanic",274,10
+831,Oregon,2018,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0,10
+832,Oregon,2018,Overall,----85+ years,Female,"Black, non-Hispanic",0,10
+833,Oregon,2018,Overall,----85+ years,Female,Hispanic,187.3,10
+834,Oregon,2018,Overall,----85+ years,Female,"White, non-Hispanic",258.7,10
+835,Oregon,2018,Overall,----85+ years,Male,"A/PI, non-Hispanic",468,10
+836,Oregon,2018,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0,10
+837,Oregon,2018,Overall,----85+ years,Male,"Black, non-Hispanic",1257.9,10
+838,Oregon,2018,Overall,----85+ years,Male,Hispanic,0,10
+839,Oregon,2018,Overall,----85+ years,Male,"White, non-Hispanic",208.2,10
+840,Tennessee,2018,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0,4
+841,Tennessee,2018,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0,4
+842,Tennessee,2018,Overall,----18-29 years,Female,"Black, non-Hispanic",0,4
+843,Tennessee,2018,Overall,----18-29 years,Female,Hispanic,0,4
+844,Tennessee,2018,Overall,----18-29 years,Female,"White, non-Hispanic",1.9,4
+845,Tennessee,2018,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0,4
+846,Tennessee,2018,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0,4
+847,Tennessee,2018,Overall,----18-29 years,Male,"Black, non-Hispanic",0,4
+848,Tennessee,2018,Overall,----18-29 years,Male,Hispanic,0,4
+849,Tennessee,2018,Overall,----18-29 years,Male,"White, non-Hispanic",2,4
+850,Tennessee,2018,Overall,----30-39 years,Female,"A/PI, non-Hispanic",0,4
+851,Tennessee,2018,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0,4
+852,Tennessee,2018,Overall,----30-39 years,Female,"Black, non-Hispanic",12.9,4
+853,Tennessee,2018,Overall,----30-39 years,Female,Hispanic,0,4
+854,Tennessee,2018,Overall,----30-39 years,Female,"White, non-Hispanic",5.4,4
+855,Tennessee,2018,Overall,----30-39 years,Male,"A/PI, non-Hispanic",0,4
+856,Tennessee,2018,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0,4
+857,Tennessee,2018,Overall,----30-39 years,Male,"Black, non-Hispanic",0,4
+858,Tennessee,2018,Overall,----30-39 years,Male,Hispanic,8.6,4
+859,Tennessee,2018,Overall,----30-39 years,Male,"White, non-Hispanic",0,4
+860,Tennessee,2018,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0,4
+861,Tennessee,2018,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",0,4
+862,Tennessee,2018,Overall,----40-49 years,Female,"Black, non-Hispanic",10.2,4
+863,Tennessee,2018,Overall,----40-49 years,Female,Hispanic,11.9,4
+864,Tennessee,2018,Overall,----40-49 years,Female,"White, non-Hispanic",6,4
+865,Tennessee,2018,Overall,----40-49 years,Male,"A/PI, non-Hispanic",23.4,4
+866,Tennessee,2018,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",0,4
+867,Tennessee,2018,Overall,----40-49 years,Male,"Black, non-Hispanic",12.1,4
+868,Tennessee,2018,Overall,----40-49 years,Male,Hispanic,0,4
+869,Tennessee,2018,Overall,----40-49 years,Male,"White, non-Hispanic",4.9,4
+870,Tennessee,2018,Overall,----65-74 years,Female,"A/PI, non-Hispanic",0,4
+871,Tennessee,2018,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",0,4
+872,Tennessee,2018,Overall,----65-74 years,Female,"Black, non-Hispanic",109.9,4
+873,Tennessee,2018,Overall,----65-74 years,Female,Hispanic,65.2,4
+874,Tennessee,2018,Overall,----65-74 years,Female,"White, non-Hispanic",37.5,4
+875,Tennessee,2018,Overall,----65-74 years,Male,"A/PI, non-Hispanic",0,4
+876,Tennessee,2018,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0,4
+877,Tennessee,2018,Overall,----65-74 years,Male,"Black, non-Hispanic",40.4,4
+878,Tennessee,2018,Overall,----65-74 years,Male,Hispanic,0,4
+879,Tennessee,2018,Overall,----65-74 years,Male,"White, non-Hispanic",46.3,4
+880,Tennessee,2018,Overall,----75-84 years,Female,"A/PI, non-Hispanic",0,4
+881,Tennessee,2018,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0,4
+882,Tennessee,2018,Overall,----75-84 years,Female,"Black, non-Hispanic",72.7,4
+883,Tennessee,2018,Overall,----75-84 years,Female,Hispanic,0,4
+884,Tennessee,2018,Overall,----75-84 years,Female,"White, non-Hispanic",93.9,4
+885,Tennessee,2018,Overall,----75-84 years,Male,"A/PI, non-Hispanic",0,4
+886,Tennessee,2018,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0,4
+887,Tennessee,2018,Overall,----75-84 years,Male,"Black, non-Hispanic",0,4
+888,Tennessee,2018,Overall,----75-84 years,Male,Hispanic,0,4
+889,Tennessee,2018,Overall,----75-84 years,Male,"White, non-Hispanic",64.4,4
+890,Tennessee,2018,Overall,----85+ years,Female,"A/PI, non-Hispanic",0,4
+891,Tennessee,2018,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0,4
+892,Tennessee,2018,Overall,----85+ years,Female,"Black, non-Hispanic",60,4
+893,Tennessee,2018,Overall,----85+ years,Female,Hispanic,0,4
+894,Tennessee,2018,Overall,----85+ years,Female,"White, non-Hispanic",153.5,4
+895,Tennessee,2018,Overall,----85+ years,Male,"A/PI, non-Hispanic",0,4
+896,Tennessee,2018,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0,4
+897,Tennessee,2018,Overall,----85+ years,Male,"Black, non-Hispanic",151.7,4
+898,Tennessee,2018,Overall,----85+ years,Male,Hispanic,0,4
+899,Tennessee,2018,Overall,----85+ years,Male,"White, non-Hispanic",155,4
+900,Colorado,2019,Overall,----0-<6 months,Female,"A/PI, non-Hispanic",1283.7,8
+901,Colorado,2019,Overall,----0-<6 months,Female,"AI/AN, non-Hispanic",0,8
+902,Colorado,2019,Overall,----0-<6 months,Female,"Black, non-Hispanic",913.2,8
+903,Colorado,2019,Overall,----0-<6 months,Female,Hispanic,650,8
+904,Colorado,2019,Overall,----0-<6 months,Female,"White, non-Hispanic",623.3,8
+905,Colorado,2019,Overall,----0-<6 months,Male,"A/PI, non-Hispanic",738,8
+906,Colorado,2019,Overall,----0-<6 months,Male,"AI/AN, non-Hispanic",0,8
+907,Colorado,2019,Overall,----0-<6 months,Male,"Black, non-Hispanic",1223.8,8
+908,Colorado,2019,Overall,----0-<6 months,Male,Hispanic,733,8
+909,Colorado,2019,Overall,----0-<6 months,Male,"White, non-Hispanic",615.8,8
+910,Colorado,2019,Overall,----1-<2 years,Female,"A/PI, non-Hispanic",238.4,8
+911,Colorado,2019,Overall,----1-<2 years,Female,"AI/AN, non-Hispanic",813,8
+912,Colorado,2019,Overall,----1-<2 years,Female,"Black, non-Hispanic",161.2,8
+913,Colorado,2019,Overall,----1-<2 years,Female,Hispanic,283.5,8
+914,Colorado,2019,Overall,----1-<2 years,Female,"White, non-Hispanic",250.2,8
+915,Colorado,2019,Overall,----1-<2 years,Male,"A/PI, non-Hispanic",236.4,8
+916,Colorado,2019,Overall,----1-<2 years,Male,"AI/AN, non-Hispanic",0,8
+917,Colorado,2019,Overall,----1-<2 years,Male,"Black, non-Hispanic",407.8,8
+918,Colorado,2019,Overall,----1-<2 years,Male,Hispanic,180.6,8
+919,Colorado,2019,Overall,----1-<2 years,Male,"White, non-Hispanic",242.4,8
+920,Colorado,2019,Overall,----12-17 years,Female,"A/PI, non-Hispanic",0,8
+921,Colorado,2019,Overall,----12-17 years,Female,"AI/AN, non-Hispanic",0,8
+922,Colorado,2019,Overall,----12-17 years,Female,"Black, non-Hispanic",12.5,8
+923,Colorado,2019,Overall,----12-17 years,Female,Hispanic,5.4,8
+924,Colorado,2019,Overall,----12-17 years,Female,"White, non-Hispanic",1.8,8
+925,Colorado,2019,Overall,----12-17 years,Male,"A/PI, non-Hispanic",0,8
+926,Colorado,2019,Overall,----12-17 years,Male,"AI/AN, non-Hispanic",0,8
+927,Colorado,2019,Overall,----12-17 years,Male,"Black, non-Hispanic",0,8
+928,Colorado,2019,Overall,----12-17 years,Male,Hispanic,2.6,8
+929,Colorado,2019,Overall,----12-17 years,Male,"White, non-Hispanic",1.7,8
+930,Colorado,2019,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0,8
+931,Colorado,2019,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0,8
+932,Colorado,2019,Overall,----18-29 years,Female,"Black, non-Hispanic",0,8
+933,Colorado,2019,Overall,----18-29 years,Female,Hispanic,4.5,8
+934,Colorado,2019,Overall,----18-29 years,Female,"White, non-Hispanic",0,8
+935,Colorado,2019,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0,8
+936,Colorado,2019,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0,8
+937,Colorado,2019,Overall,----18-29 years,Male,"Black, non-Hispanic",0,8
+938,Colorado,2019,Overall,----18-29 years,Male,Hispanic,0,8
+939,Colorado,2019,Overall,----18-29 years,Male,"White, non-Hispanic",0,8
+940,Colorado,2019,Overall,----2-4 years,Female,"A/PI, non-Hispanic",72.9,8
+941,Colorado,2019,Overall,----2-4 years,Female,"AI/AN, non-Hispanic",0,8
+942,Colorado,2019,Overall,----2-4 years,Female,"Black, non-Hispanic",100.2,8
+943,Colorado,2019,Overall,----2-4 years,Female,Hispanic,86.6,8
+944,Colorado,2019,Overall,----2-4 years,Female,"White, non-Hispanic",64.1,8
+945,Colorado,2019,Overall,----2-4 years,Male,"A/PI, non-Hispanic",75.8,8
+946,Colorado,2019,Overall,----2-4 years,Male,"AI/AN, non-Hispanic",0,8
+947,Colorado,2019,Overall,----2-4 years,Male,"Black, non-Hispanic",97.9,8
+948,Colorado,2019,Overall,----2-4 years,Male,Hispanic,59.6,8
+949,Colorado,2019,Overall,----2-4 years,Male,"White, non-Hispanic",100.3,8
+950,Colorado,2019,Overall,----30-39 years,Female,"A/PI, non-Hispanic",6.7,8
+951,Colorado,2019,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0,8
+952,Colorado,2019,Overall,----30-39 years,Female,"Black, non-Hispanic",7.4,8
+953,Colorado,2019,Overall,----30-39 years,Female,Hispanic,1.9,8
+954,Colorado,2019,Overall,----30-39 years,Female,"White, non-Hispanic",0.7,8
+955,Colorado,2019,Overall,----30-39 years,Male,"A/PI, non-Hispanic",0,8
+956,Colorado,2019,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0,8
+957,Colorado,2019,Overall,----30-39 years,Male,"Black, non-Hispanic",19.6,8
+958,Colorado,2019,Overall,----30-39 years,Male,Hispanic,7.1,8
+959,Colorado,2019,Overall,----30-39 years,Male,"White, non-Hispanic",0.6,8
+960,Colorado,2019,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0,8
+961,Colorado,2019,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",0,8
+962,Colorado,2019,Overall,----40-49 years,Female,"Black, non-Hispanic",18.3,8
+963,Colorado,2019,Overall,----40-49 years,Female,Hispanic,2.3,8
+964,Colorado,2019,Overall,----40-49 years,Female,"White, non-Hispanic",5,8
+965,Colorado,2019,Overall,----40-49 years,Male,"A/PI, non-Hispanic",0,8
+966,Colorado,2019,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",85.5,8
+967,Colorado,2019,Overall,----40-49 years,Male,"Black, non-Hispanic",0,8
+968,Colorado,2019,Overall,----40-49 years,Male,Hispanic,2.2,8
+969,Colorado,2019,Overall,----40-49 years,Male,"White, non-Hispanic",3.2,8
+970,Colorado,2019,Overall,----5-11 years,Female,"A/PI, non-Hispanic",16,8
+971,Colorado,2019,Overall,----5-11 years,Female,"AI/AN, non-Hispanic",143.7,8
+972,Colorado,2019,Overall,----5-11 years,Female,"Black, non-Hispanic",0,8
+973,Colorado,2019,Overall,----5-11 years,Female,Hispanic,2.5,8
+974,Colorado,2019,Overall,----5-11 years,Female,"White, non-Hispanic",9.6,8
+975,Colorado,2019,Overall,----5-11 years,Male,"A/PI, non-Hispanic",16.3,8
+976,Colorado,2019,Overall,----5-11 years,Male,"AI/AN, non-Hispanic",0,8
+977,Colorado,2019,Overall,----5-11 years,Male,"Black, non-Hispanic",0,8
+978,Colorado,2019,Overall,----5-11 years,Male,Hispanic,11.9,8
+979,Colorado,2019,Overall,----5-11 years,Male,"White, non-Hispanic",3,8
+980,Colorado,2019,Overall,----6-<12 months,Female,"A/PI, non-Hispanic",0,8
+981,Colorado,2019,Overall,----6-<12 months,Female,"AI/AN, non-Hispanic",0,8
+982,Colorado,2019,Overall,----6-<12 months,Female,"Black, non-Hispanic",182.6,8
+983,Colorado,2019,Overall,----6-<12 months,Female,Hispanic,305.9,8
+984,Colorado,2019,Overall,----6-<12 months,Female,"White, non-Hispanic",311.7,8
+985,Colorado,2019,Overall,----6-<12 months,Male,"A/PI, non-Hispanic",246,8
+986,Colorado,2019,Overall,----6-<12 months,Male,"AI/AN, non-Hispanic",0,8
+987,Colorado,2019,Overall,----6-<12 months,Male,"Black, non-Hispanic",349.7,8
+988,Colorado,2019,Overall,----6-<12 months,Male,Hispanic,110,8
+989,Colorado,2019,Overall,----6-<12 months,Male,"White, non-Hispanic",254.8,8
+990,Colorado,2019,Overall,----65-74 years,Female,"A/PI, non-Hispanic",0,8
+991,Colorado,2019,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",0,8
+992,Colorado,2019,Overall,----65-74 years,Female,"Black, non-Hispanic",33.7,8
+993,Colorado,2019,Overall,----65-74 years,Female,Hispanic,20.1,8
+994,Colorado,2019,Overall,----65-74 years,Female,"White, non-Hispanic",7.2,8
+995,Colorado,2019,Overall,----65-74 years,Male,"A/PI, non-Hispanic",0,8
+996,Colorado,2019,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0,8
+997,Colorado,2019,Overall,----65-74 years,Male,"Black, non-Hispanic",37.4,8
+998,Colorado,2019,Overall,----65-74 years,Male,Hispanic,23.8,8
+999,Colorado,2019,Overall,----65-74 years,Male,"White, non-Hispanic",3.5,8
+1000,Colorado,2019,Overall,----75-84 years,Female,"A/PI, non-Hispanic",45.7,8
+1001,Colorado,2019,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0,8
+1002,Colorado,2019,Overall,----75-84 years,Female,"Black, non-Hispanic",71.3,8
+1003,Colorado,2019,Overall,----75-84 years,Female,Hispanic,14.7,8
+1004,Colorado,2019,Overall,----75-84 years,Female,"White, non-Hispanic",6.7,8
+1005,Colorado,2019,Overall,----75-84 years,Male,"A/PI, non-Hispanic",0,8
+1006,Colorado,2019,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0,8
+1007,Colorado,2019,Overall,----75-84 years,Male,"Black, non-Hispanic",0,8
+1008,Colorado,2019,Overall,----75-84 years,Male,Hispanic,19.4,8
+1009,Colorado,2019,Overall,----75-84 years,Male,"White, non-Hispanic",8.6,8
+1010,Colorado,2019,Overall,----85+ years,Female,"A/PI, non-Hispanic",0,8
+1011,Colorado,2019,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0,8
+1012,Colorado,2019,Overall,----85+ years,Female,"Black, non-Hispanic",0,8
+1013,Colorado,2019,Overall,----85+ years,Female,Hispanic,152.1,8
+1014,Colorado,2019,Overall,----85+ years,Female,"White, non-Hispanic",9.5,8
+1015,Colorado,2019,Overall,----85+ years,Male,"A/PI, non-Hispanic",0,8
+1016,Colorado,2019,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0,8
+1017,Colorado,2019,Overall,----85+ years,Male,"Black, non-Hispanic",0,8
+1018,Colorado,2019,Overall,----85+ years,Male,Hispanic,0,8
+1019,Colorado,2019,Overall,----85+ years,Male,"White, non-Hispanic",24.5,8
+1020,Connecticut,2019,Overall,----0-<6 months,Female,"A/PI, non-Hispanic",0,1
+1021,Connecticut,2019,Overall,----0-<6 months,Female,"AI/AN, non-Hispanic",0,1
+1022,Connecticut,2019,Overall,----0-<6 months,Female,"Black, non-Hispanic",1517.5,1
+1023,Connecticut,2019,Overall,----0-<6 months,Female,Hispanic,1487,1
+1024,Connecticut,2019,Overall,----0-<6 months,Female,"White, non-Hispanic",1227.6,1
+1025,Connecticut,2019,Overall,----0-<6 months,Male,"A/PI, non-Hispanic",0,1
+1026,Connecticut,2019,Overall,----0-<6 months,Male,"AI/AN, non-Hispanic",0,1
+1027,Connecticut,2019,Overall,----0-<6 months,Male,"Black, non-Hispanic",879.8,1
+1028,Connecticut,2019,Overall,----0-<6 months,Male,Hispanic,1552.6,1
+1029,Connecticut,2019,Overall,----0-<6 months,Male,"White, non-Hispanic",867.5,1
+1030,Connecticut,2019,Overall,----1-<2 years,Female,"A/PI, non-Hispanic",617.3,1
+1031,Connecticut,2019,Overall,----1-<2 years,Female,"AI/AN, non-Hispanic",0,1
+1032,Connecticut,2019,Overall,----1-<2 years,Female,"Black, non-Hispanic",318.5,1
+1033,Connecticut,2019,Overall,----1-<2 years,Female,Hispanic,138.7,1
+1034,Connecticut,2019,Overall,----1-<2 years,Female,"White, non-Hispanic",51.7,1
+1035,Connecticut,2019,Overall,----1-<2 years,Male,"A/PI, non-Hispanic",0,1
+1036,Connecticut,2019,Overall,----1-<2 years,Male,"AI/AN, non-Hispanic",0,1
+1037,Connecticut,2019,Overall,----1-<2 years,Male,"Black, non-Hispanic",267.7,1
+1038,Connecticut,2019,Overall,----1-<2 years,Male,Hispanic,145.7,1
+1039,Connecticut,2019,Overall,----1-<2 years,Male,"White, non-Hispanic",145.3,1
+1040,Connecticut,2019,Overall,----12-17 years,Female,"A/PI, non-Hispanic",0,1
+1041,Connecticut,2019,Overall,----12-17 years,Female,"AI/AN, non-Hispanic",0,1
+1042,Connecticut,2019,Overall,----12-17 years,Female,"Black, non-Hispanic",19.7,1
+1043,Connecticut,2019,Overall,----12-17 years,Female,Hispanic,0,1
+1044,Connecticut,2019,Overall,----12-17 years,Female,"White, non-Hispanic",0,1
+1045,Connecticut,2019,Overall,----12-17 years,Male,"A/PI, non-Hispanic",0,1
+1046,Connecticut,2019,Overall,----12-17 years,Male,"AI/AN, non-Hispanic",0,1
+1047,Connecticut,2019,Overall,----12-17 years,Male,"Black, non-Hispanic",0,1
+1048,Connecticut,2019,Overall,----12-17 years,Male,Hispanic,0,1
+1049,Connecticut,2019,Overall,----12-17 years,Male,"White, non-Hispanic",0,1
+1050,Connecticut,2019,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0,1
+1051,Connecticut,2019,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0,1
+1052,Connecticut,2019,Overall,----18-29 years,Female,"Black, non-Hispanic",8.6,1
+1053,Connecticut,2019,Overall,----18-29 years,Female,Hispanic,6.1,1
+1054,Connecticut,2019,Overall,----18-29 years,Female,"White, non-Hispanic",0,1
+1055,Connecticut,2019,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0,1
+1056,Connecticut,2019,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0,1
+1057,Connecticut,2019,Overall,----18-29 years,Male,"Black, non-Hispanic",8.5,1
+1058,Connecticut,2019,Overall,----18-29 years,Male,Hispanic,0,1
+1059,Connecticut,2019,Overall,----18-29 years,Male,"White, non-Hispanic",0,1
+1060,Connecticut,2019,Overall,----2-4 years,Female,"A/PI, non-Hispanic",0,1
+1061,Connecticut,2019,Overall,----2-4 years,Female,"AI/AN, non-Hispanic",0,1
+1062,Connecticut,2019,Overall,----2-4 years,Female,"Black, non-Hispanic",48.2,1
+1063,Connecticut,2019,Overall,----2-4 years,Female,Hispanic,49.1,1
+1064,Connecticut,2019,Overall,----2-4 years,Female,"White, non-Hispanic",31.6,1
+1065,Connecticut,2019,Overall,----2-4 years,Male,"A/PI, non-Hispanic",0,1
+1066,Connecticut,2019,Overall,----2-4 years,Male,"AI/AN, non-Hispanic",0,1
+1067,Connecticut,2019,Overall,----2-4 years,Male,"Black, non-Hispanic",90,1
+1068,Connecticut,2019,Overall,----2-4 years,Male,Hispanic,71.8,1
+1069,Connecticut,2019,Overall,----2-4 years,Male,"White, non-Hispanic",15.1,1
+1070,Connecticut,2019,Overall,----30-39 years,Female,"A/PI, non-Hispanic",0,1
+1071,Connecticut,2019,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0,1
+1072,Connecticut,2019,Overall,----30-39 years,Female,"Black, non-Hispanic",0,1
+1073,Connecticut,2019,Overall,----30-39 years,Female,Hispanic,7.8,1
+1074,Connecticut,2019,Overall,----30-39 years,Female,"White, non-Hispanic",0,1
+1075,Connecticut,2019,Overall,----30-39 years,Male,"A/PI, non-Hispanic",32.5,1
+1076,Connecticut,2019,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0,1
+1077,Connecticut,2019,Overall,----30-39 years,Male,"Black, non-Hispanic",0,1
+1078,Connecticut,2019,Overall,----30-39 years,Male,Hispanic,8.1,1
+1079,Connecticut,2019,Overall,----30-39 years,Male,"White, non-Hispanic",3.3,1
+1080,Connecticut,2019,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0,1
+1081,Connecticut,2019,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",0,1
+1082,Connecticut,2019,Overall,----40-49 years,Female,"Black, non-Hispanic",12.4,1
+1083,Connecticut,2019,Overall,----40-49 years,Female,Hispanic,8.9,1
+1084,Connecticut,2019,Overall,----40-49 years,Female,"White, non-Hispanic",6.6,1
+1085,Connecticut,2019,Overall,----40-49 years,Male,"A/PI, non-Hispanic",39.9,1
+1086,Connecticut,2019,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",0,1
+1087,Connecticut,2019,Overall,----40-49 years,Male,"Black, non-Hispanic",46.2,1
+1088,Connecticut,2019,Overall,----40-49 years,Male,Hispanic,19.3,1
+1089,Connecticut,2019,Overall,----40-49 years,Male,"White, non-Hispanic",3.4,1
+1090,Connecticut,2019,Overall,----5-11 years,Female,"A/PI, non-Hispanic",0,1
+1091,Connecticut,2019,Overall,----5-11 years,Female,"AI/AN, non-Hispanic",0,1
+1092,Connecticut,2019,Overall,----5-11 years,Female,"Black, non-Hispanic",0,1
+1093,Connecticut,2019,Overall,----5-11 years,Female,Hispanic,0,1
+1094,Connecticut,2019,Overall,----5-11 years,Female,"White, non-Hispanic",0,1
+1095,Connecticut,2019,Overall,----5-11 years,Male,"A/PI, non-Hispanic",0,1
+1096,Connecticut,2019,Overall,----5-11 years,Male,"AI/AN, non-Hispanic",0,1
+1097,Connecticut,2019,Overall,----5-11 years,Male,"Black, non-Hispanic",17.5,1
+1098,Connecticut,2019,Overall,----5-11 years,Male,Hispanic,0,1
+1099,Connecticut,2019,Overall,----5-11 years,Male,"White, non-Hispanic",0,1
+1100,Connecticut,2019,Overall,----6-<12 months,Female,"A/PI, non-Hispanic",0,1
+1101,Connecticut,2019,Overall,----6-<12 months,Female,"AI/AN, non-Hispanic",0,1
+1102,Connecticut,2019,Overall,----6-<12 months,Female,"Black, non-Hispanic",303.5,1
+1103,Connecticut,2019,Overall,----6-<12 months,Female,Hispanic,446.1,1
+1104,Connecticut,2019,Overall,----6-<12 months,Female,"White, non-Hispanic",204.6,1
+1105,Connecticut,2019,Overall,----6-<12 months,Male,"A/PI, non-Hispanic",2116.4,1
+1106,Connecticut,2019,Overall,----6-<12 months,Male,"AI/AN, non-Hispanic",0,1
+1107,Connecticut,2019,Overall,----6-<12 months,Male,"Black, non-Hispanic",0,1
+1108,Connecticut,2019,Overall,----6-<12 months,Male,Hispanic,282.3,1
+1109,Connecticut,2019,Overall,----6-<12 months,Male,"White, non-Hispanic",289.2,1
+1110,Connecticut,2019,Overall,----65-74 years,Female,"A/PI, non-Hispanic",76.7,1
+1111,Connecticut,2019,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",0,1
+1112,Connecticut,2019,Overall,----65-74 years,Female,"Black, non-Hispanic",133.5,1
+1113,Connecticut,2019,Overall,----65-74 years,Female,Hispanic,82.1,1
+1114,Connecticut,2019,Overall,----65-74 years,Female,"White, non-Hispanic",32.6,1
+1115,Connecticut,2019,Overall,----65-74 years,Male,"A/PI, non-Hispanic",0,1
+1116,Connecticut,2019,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0,1
+1117,Connecticut,2019,Overall,----65-74 years,Male,"Black, non-Hispanic",96.6,1
+1118,Connecticut,2019,Overall,----65-74 years,Male,Hispanic,33.5,1
+1119,Connecticut,2019,Overall,----65-74 years,Male,"White, non-Hispanic",21.8,1
+1120,Connecticut,2019,Overall,----75-84 years,Female,"A/PI, non-Hispanic",0,1
+1121,Connecticut,2019,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0,1
+1122,Connecticut,2019,Overall,----75-84 years,Female,"Black, non-Hispanic",81.3,1
+1123,Connecticut,2019,Overall,----75-84 years,Female,Hispanic,181.3,1
+1124,Connecticut,2019,Overall,----75-84 years,Female,"White, non-Hispanic",85.9,1
+1125,Connecticut,2019,Overall,----75-84 years,Male,"A/PI, non-Hispanic",0,1
+1126,Connecticut,2019,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0,1
+1127,Connecticut,2019,Overall,----75-84 years,Male,"Black, non-Hispanic",141.8,1
+1128,Connecticut,2019,Overall,----75-84 years,Male,Hispanic,84.7,1
+1129,Connecticut,2019,Overall,----75-84 years,Male,"White, non-Hispanic",81.7,1
+1130,Connecticut,2019,Overall,----85+ years,Female,"A/PI, non-Hispanic",0,1
+1131,Connecticut,2019,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0,1
+1132,Connecticut,2019,Overall,----85+ years,Female,"Black, non-Hispanic",103.2,1
+1133,Connecticut,2019,Overall,----85+ years,Female,Hispanic,319,1
+1134,Connecticut,2019,Overall,----85+ years,Female,"White, non-Hispanic",236.3,1
+1135,Connecticut,2019,Overall,----85+ years,Male,"A/PI, non-Hispanic",0,1
+1136,Connecticut,2019,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0,1
+1137,Connecticut,2019,Overall,----85+ years,Male,"Black, non-Hispanic",491.4,1
+1138,Connecticut,2019,Overall,----85+ years,Male,Hispanic,810.8,1
+1139,Connecticut,2019,Overall,----85+ years,Male,"White, non-Hispanic",213.4,1
+1140,Michigan,2019,Overall,----75-84 years,Male,Hispanic,0,5
+1141,Michigan,2019,Overall,----0-<6 months,Female,"A/PI, non-Hispanic",0,5
+1142,Michigan,2019,Overall,----0-<6 months,Female,"AI/AN, non-Hispanic",0,5
+1143,Michigan,2019,Overall,----0-<6 months,Female,"Black, non-Hispanic",1995.6,5
+1144,Michigan,2019,Overall,----0-<6 months,Female,Hispanic,2247.2,5
+1145,Michigan,2019,Overall,----0-<6 months,Female,"White, non-Hispanic",1441.6,5
+1146,Michigan,2019,Overall,----0-<6 months,Male,"A/PI, non-Hispanic",0,5
+1147,Michigan,2019,Overall,----0-<6 months,Male,"AI/AN, non-Hispanic",0,5
+1148,Michigan,2019,Overall,----0-<6 months,Male,"Black, non-Hispanic",3659.8,5
+1149,Michigan,2019,Overall,----0-<6 months,Male,Hispanic,4324.3,5
+1150,Michigan,2019,Overall,----0-<6 months,Male,"White, non-Hispanic",1518.4,5
+1151,Michigan,2019,Overall,----1-<2 years,Female,"A/PI, non-Hispanic",0,5
+1152,Michigan,2019,Overall,----1-<2 years,Female,"AI/AN, non-Hispanic",0,5
+1153,Michigan,2019,Overall,----1-<2 years,Female,"Black, non-Hispanic",614.1,5
+1154,Michigan,2019,Overall,----1-<2 years,Female,Hispanic,450.5,5
+1155,Michigan,2019,Overall,----1-<2 years,Female,"White, non-Hispanic",299.4,5
+1156,Michigan,2019,Overall,----1-<2 years,Male,"A/PI, non-Hispanic",518.1,5
+1157,Michigan,2019,Overall,----1-<2 years,Male,"AI/AN, non-Hispanic",0,5
+1158,Michigan,2019,Overall,----1-<2 years,Male,"Black, non-Hispanic",217.4,5
+1159,Michigan,2019,Overall,----1-<2 years,Male,Hispanic,0,5
+1160,Michigan,2019,Overall,----1-<2 years,Male,"White, non-Hispanic",295.9,5
+1161,Michigan,2019,Overall,----12-17 years,Female,"A/PI, non-Hispanic",0,5
+1162,Michigan,2019,Overall,----12-17 years,Female,"AI/AN, non-Hispanic",0,5
+1163,Michigan,2019,Overall,----12-17 years,Female,"Black, non-Hispanic",16.7,5
+1164,Michigan,2019,Overall,----12-17 years,Female,Hispanic,0,5
+1165,Michigan,2019,Overall,----12-17 years,Female,"White, non-Hispanic",0,5
+1166,Michigan,2019,Overall,----12-17 years,Male,"A/PI, non-Hispanic",0,5
+1167,Michigan,2019,Overall,----12-17 years,Male,"AI/AN, non-Hispanic",0,5
+1168,Michigan,2019,Overall,----12-17 years,Male,"Black, non-Hispanic",0,5
+1169,Michigan,2019,Overall,----12-17 years,Male,Hispanic,0,5
+1170,Michigan,2019,Overall,----12-17 years,Male,"White, non-Hispanic",0,5
+1171,Michigan,2019,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0,5
+1172,Michigan,2019,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0,5
+1173,Michigan,2019,Overall,----18-29 years,Female,"Black, non-Hispanic",0,5
+1174,Michigan,2019,Overall,----18-29 years,Female,Hispanic,0,5
+1175,Michigan,2019,Overall,----18-29 years,Female,"White, non-Hispanic",0,5
+1176,Michigan,2019,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0,5
+1177,Michigan,2019,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0,5
+1178,Michigan,2019,Overall,----18-29 years,Male,"Black, non-Hispanic",13.9,5
+1179,Michigan,2019,Overall,----18-29 years,Male,Hispanic,0,5
+1180,Michigan,2019,Overall,----18-29 years,Male,"White, non-Hispanic",0,5
+1181,Michigan,2019,Overall,----2-4 years,Female,"A/PI, non-Hispanic",198.8,5
+1182,Michigan,2019,Overall,----2-4 years,Female,"AI/AN, non-Hispanic",0,5
+1183,Michigan,2019,Overall,----2-4 years,Female,"Black, non-Hispanic",33.8,5
+1184,Michigan,2019,Overall,----2-4 years,Female,Hispanic,0,5
+1185,Michigan,2019,Overall,----2-4 years,Female,"White, non-Hispanic",97.7,5
+1186,Michigan,2019,Overall,----2-4 years,Male,"A/PI, non-Hispanic",0,5
+1187,Michigan,2019,Overall,----2-4 years,Male,"AI/AN, non-Hispanic",0,5
+1188,Michigan,2019,Overall,----2-4 years,Male,"Black, non-Hispanic",323.8,5
+1189,Michigan,2019,Overall,----2-4 years,Male,Hispanic,273.6,5
+1190,Michigan,2019,Overall,----2-4 years,Male,"White, non-Hispanic",130.1,5
+1191,Michigan,2019,Overall,----30-39 years,Female,"A/PI, non-Hispanic",0,5
+1192,Michigan,2019,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0,5
+1193,Michigan,2019,Overall,----30-39 years,Female,"Black, non-Hispanic",12.6,5
+1194,Michigan,2019,Overall,----30-39 years,Female,Hispanic,0,5
+1195,Michigan,2019,Overall,----30-39 years,Female,"White, non-Hispanic",3,5
+1196,Michigan,2019,Overall,----30-39 years,Male,"A/PI, non-Hispanic",0,5
+1197,Michigan,2019,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0,5
+1198,Michigan,2019,Overall,----30-39 years,Male,"Black, non-Hispanic",13.8,5
+1199,Michigan,2019,Overall,----30-39 years,Male,Hispanic,0,5
+1200,Michigan,2019,Overall,----30-39 years,Male,"White, non-Hispanic",9.1,5
+1201,Michigan,2019,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0,5
+1202,Michigan,2019,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",0,5
+1203,Michigan,2019,Overall,----40-49 years,Female,"Black, non-Hispanic",0,5
+1204,Michigan,2019,Overall,----40-49 years,Female,Hispanic,0,5
+1205,Michigan,2019,Overall,----40-49 years,Female,"White, non-Hispanic",3,5
+1206,Michigan,2019,Overall,----40-49 years,Male,"A/PI, non-Hispanic",0,5
+1207,Michigan,2019,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",0,5
+1208,Michigan,2019,Overall,----40-49 years,Male,"Black, non-Hispanic",14.6,5
+1209,Michigan,2019,Overall,----40-49 years,Male,Hispanic,0,5
+1210,Michigan,2019,Overall,----40-49 years,Male,"White, non-Hispanic",0,5
+1211,Michigan,2019,Overall,----5-11 years,Female,"A/PI, non-Hispanic",0,5
+1212,Michigan,2019,Overall,----5-11 years,Female,"AI/AN, non-Hispanic",0,5
+1213,Michigan,2019,Overall,----5-11 years,Female,"Black, non-Hispanic",14.5,5
+1214,Michigan,2019,Overall,----5-11 years,Female,Hispanic,0,5
+1215,Michigan,2019,Overall,----5-11 years,Female,"White, non-Hispanic",15.5,5
+1216,Michigan,2019,Overall,----5-11 years,Male,"A/PI, non-Hispanic",0,5
+1217,Michigan,2019,Overall,----5-11 years,Male,"AI/AN, non-Hispanic",0,5
+1218,Michigan,2019,Overall,----5-11 years,Male,"Black, non-Hispanic",27.6,5
+1219,Michigan,2019,Overall,----5-11 years,Male,Hispanic,0,5
+1220,Michigan,2019,Overall,----5-11 years,Male,"White, non-Hispanic",34.4,5
+1221,Michigan,2019,Overall,----6-<12 months,Female,"A/PI, non-Hispanic",0,5
+1222,Michigan,2019,Overall,----6-<12 months,Female,"AI/AN, non-Hispanic",0,5
+1223,Michigan,2019,Overall,----6-<12 months,Female,"Black, non-Hispanic",886.9,5
+1224,Michigan,2019,Overall,----6-<12 months,Female,Hispanic,0,5
+1225,Michigan,2019,Overall,----6-<12 months,Female,"White, non-Hispanic",379.4,5
+1226,Michigan,2019,Overall,----6-<12 months,Male,"A/PI, non-Hispanic",0,5
+1227,Michigan,2019,Overall,----6-<12 months,Male,"AI/AN, non-Hispanic",0,5
+1228,Michigan,2019,Overall,----6-<12 months,Male,"Black, non-Hispanic",1722.3,5
+1229,Michigan,2019,Overall,----6-<12 months,Male,Hispanic,1081.1,5
+1230,Michigan,2019,Overall,----6-<12 months,Male,"White, non-Hispanic",650.8,5
+1231,Michigan,2019,Overall,----65-74 years,Female,"A/PI, non-Hispanic",0,5
+1232,Michigan,2019,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",0,5
+1233,Michigan,2019,Overall,----65-74 years,Female,"Black, non-Hispanic",51.4,5
+1234,Michigan,2019,Overall,----65-74 years,Female,Hispanic,0,5
+1235,Michigan,2019,Overall,----65-74 years,Female,"White, non-Hispanic",31,5
+1236,Michigan,2019,Overall,----65-74 years,Male,"A/PI, non-Hispanic",0,5
+1237,Michigan,2019,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0,5
+1238,Michigan,2019,Overall,----65-74 years,Male,"Black, non-Hispanic",66.2,5
+1239,Michigan,2019,Overall,----65-74 years,Male,Hispanic,0,5
+1240,Michigan,2019,Overall,----65-74 years,Male,"White, non-Hispanic",28.1,5
+1241,Michigan,2019,Overall,----75-84 years,Female,"A/PI, non-Hispanic",157.2,5
+1242,Michigan,2019,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0,5
+1243,Michigan,2019,Overall,----75-84 years,Female,"Black, non-Hispanic",37.4,5
+1244,Michigan,2019,Overall,----75-84 years,Female,Hispanic,0,5
+1245,Michigan,2019,Overall,----75-84 years,Female,"White, non-Hispanic",52.7,5
+1246,Michigan,2019,Overall,----75-84 years,Male,"A/PI, non-Hispanic",212.3,5
+1247,Michigan,2019,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0,5
+1248,Michigan,2019,Overall,----75-84 years,Male,"Black, non-Hispanic",0,5
+1249,Michigan,2019,Overall,----75-84 years,Male,"White, non-Hispanic",74.8,5
+1250,Michigan,2019,Overall,----85+ years,Female,"A/PI, non-Hispanic",476.2,5
+1251,Michigan,2019,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0,5
+1252,Michigan,2019,Overall,----85+ years,Female,"Black, non-Hispanic",0,5
+1253,Michigan,2019,Overall,----85+ years,Female,Hispanic,0,5
+1254,Michigan,2019,Overall,----85+ years,Female,"White, non-Hispanic",158.2,5
+1255,Michigan,2019,Overall,----85+ years,Male,"A/PI, non-Hispanic",0,5
+1256,Michigan,2019,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0,5
+1257,Michigan,2019,Overall,----85+ years,Male,"Black, non-Hispanic",168.9,5
+1258,Michigan,2019,Overall,----85+ years,Male,Hispanic,0,5
+1259,Michigan,2019,Overall,----85+ years,Male,"White, non-Hispanic",22.3,5
+1260,New Mexico,2019,Overall,----0-<6 months,Female,"A/PI, non-Hispanic",2325.6,6
+1261,New Mexico,2019,Overall,----0-<6 months,Female,"AI/AN, non-Hispanic",3125,6
+1262,New Mexico,2019,Overall,----0-<6 months,Female,"Black, non-Hispanic",0,6
+1263,New Mexico,2019,Overall,----0-<6 months,Female,Hispanic,2417.8,6
+1264,New Mexico,2019,Overall,----0-<6 months,Female,"White, non-Hispanic",1185.8,6
+1265,New Mexico,2019,Overall,----0-<6 months,Male,"A/PI, non-Hispanic",4347.8,6
+1266,New Mexico,2019,Overall,----0-<6 months,Male,"AI/AN, non-Hispanic",4000,6
+1267,New Mexico,2019,Overall,----0-<6 months,Male,"Black, non-Hispanic",2777.8,6
+1268,New Mexico,2019,Overall,----0-<6 months,Male,Hispanic,2593.8,6
+1269,New Mexico,2019,Overall,----0-<6 months,Male,"White, non-Hispanic",948.8,6
+1270,New Mexico,2019,Overall,----1-<2 years,Female,"A/PI, non-Hispanic",0,6
+1271,New Mexico,2019,Overall,----1-<2 years,Female,"AI/AN, non-Hispanic",1401.9,6
+1272,New Mexico,2019,Overall,----1-<2 years,Female,"Black, non-Hispanic",0,6
+1273,New Mexico,2019,Overall,----1-<2 years,Female,Hispanic,640.7,6
+1274,New Mexico,2019,Overall,----1-<2 years,Female,"White, non-Hispanic",865.8,6
+1275,New Mexico,2019,Overall,----1-<2 years,Male,"A/PI, non-Hispanic",1315.8,6
+1276,New Mexico,2019,Overall,----1-<2 years,Male,"AI/AN, non-Hispanic",900.9,6
+1277,New Mexico,2019,Overall,----1-<2 years,Male,"Black, non-Hispanic",0,6
+1278,New Mexico,2019,Overall,----1-<2 years,Male,Hispanic,980,6
+1279,New Mexico,2019,Overall,----1-<2 years,Male,"White, non-Hispanic",495.5,6
+1280,New Mexico,2019,Overall,----12-17 years,Female,"A/PI, non-Hispanic",0,6
+1281,New Mexico,2019,Overall,----12-17 years,Female,"AI/AN, non-Hispanic",0,6
+1282,New Mexico,2019,Overall,----12-17 years,Female,"Black, non-Hispanic",0,6
+1283,New Mexico,2019,Overall,----12-17 years,Female,Hispanic,0,6
+1284,New Mexico,2019,Overall,----12-17 years,Female,"White, non-Hispanic",0,6
+1285,New Mexico,2019,Overall,----12-17 years,Male,"A/PI, non-Hispanic",0,6
+1286,New Mexico,2019,Overall,----12-17 years,Male,"AI/AN, non-Hispanic",0,6
+1287,New Mexico,2019,Overall,----12-17 years,Male,"Black, non-Hispanic",0,6
+1288,New Mexico,2019,Overall,----12-17 years,Male,Hispanic,0,6
+1289,New Mexico,2019,Overall,----12-17 years,Male,"White, non-Hispanic",0,6
+1290,New Mexico,2019,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0,6
+1291,New Mexico,2019,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0,6
+1292,New Mexico,2019,Overall,----18-29 years,Female,"Black, non-Hispanic",0,6
+1293,New Mexico,2019,Overall,----18-29 years,Female,Hispanic,0,6
+1294,New Mexico,2019,Overall,----18-29 years,Female,"White, non-Hispanic",0,6
+1295,New Mexico,2019,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0,6
+1296,New Mexico,2019,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0,6
+1297,New Mexico,2019,Overall,----18-29 years,Male,"Black, non-Hispanic",0,6
+1298,New Mexico,2019,Overall,----18-29 years,Male,Hispanic,12.4,6
+1299,New Mexico,2019,Overall,----18-29 years,Male,"White, non-Hispanic",0,6
+1300,New Mexico,2019,Overall,----2-4 years,Female,"A/PI, non-Hispanic",0,6
+1301,New Mexico,2019,Overall,----2-4 years,Female,"AI/AN, non-Hispanic",0,6
+1302,New Mexico,2019,Overall,----2-4 years,Female,"Black, non-Hispanic",502.5,6
+1303,New Mexico,2019,Overall,----2-4 years,Female,Hispanic,249.5,6
+1304,New Mexico,2019,Overall,----2-4 years,Female,"White, non-Hispanic",282.4,6
+1305,New Mexico,2019,Overall,----2-4 years,Male,"A/PI, non-Hispanic",0,6
+1306,New Mexico,2019,Overall,----2-4 years,Male,"AI/AN, non-Hispanic",815.7,6
+1307,New Mexico,2019,Overall,----2-4 years,Male,"Black, non-Hispanic",237,6
+1308,New Mexico,2019,Overall,----2-4 years,Male,Hispanic,253,6
+1309,New Mexico,2019,Overall,----2-4 years,Male,"White, non-Hispanic",287.4,6
+1310,New Mexico,2019,Overall,----30-39 years,Female,"A/PI, non-Hispanic",0,6
+1311,New Mexico,2019,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0,6
+1312,New Mexico,2019,Overall,----30-39 years,Female,"Black, non-Hispanic",0,6
+1313,New Mexico,2019,Overall,----30-39 years,Female,Hispanic,3.9,6
+1314,New Mexico,2019,Overall,----30-39 years,Female,"White, non-Hispanic",6,6
+1315,New Mexico,2019,Overall,----30-39 years,Male,"A/PI, non-Hispanic",0,6
+1316,New Mexico,2019,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0,6
+1317,New Mexico,2019,Overall,----30-39 years,Male,"Black, non-Hispanic",0,6
+1318,New Mexico,2019,Overall,----30-39 years,Male,Hispanic,0,6
+1319,New Mexico,2019,Overall,----30-39 years,Male,"White, non-Hispanic",0,6
+1320,New Mexico,2019,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0,6
+1321,New Mexico,2019,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",0,6
+1322,New Mexico,2019,Overall,----40-49 years,Female,"Black, non-Hispanic",0,6
+1323,New Mexico,2019,Overall,----40-49 years,Female,Hispanic,9.5,6
+1324,New Mexico,2019,Overall,----40-49 years,Female,"White, non-Hispanic",6.8,6
+1325,New Mexico,2019,Overall,----40-49 years,Male,"A/PI, non-Hispanic",0,6
+1326,New Mexico,2019,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",0,6
+1327,New Mexico,2019,Overall,----40-49 years,Male,"Black, non-Hispanic",0,6
+1328,New Mexico,2019,Overall,----40-49 years,Male,Hispanic,14.6,6
+1329,New Mexico,2019,Overall,----40-49 years,Male,"White, non-Hispanic",0,6
+1330,New Mexico,2019,Overall,----5-11 years,Female,"A/PI, non-Hispanic",0,6
+1331,New Mexico,2019,Overall,----5-11 years,Female,"AI/AN, non-Hispanic",70.7,6
+1332,New Mexico,2019,Overall,----5-11 years,Female,"Black, non-Hispanic",0,6
+1333,New Mexico,2019,Overall,----5-11 years,Female,Hispanic,28.4,6
+1334,New Mexico,2019,Overall,----5-11 years,Female,"White, non-Hispanic",0,6
+1335,New Mexico,2019,Overall,----5-11 years,Male,"A/PI, non-Hispanic",0,6
+1336,New Mexico,2019,Overall,----5-11 years,Male,"AI/AN, non-Hispanic",147.2,6
+1337,New Mexico,2019,Overall,----5-11 years,Male,"Black, non-Hispanic",86,6
+1338,New Mexico,2019,Overall,----5-11 years,Male,Hispanic,27.1,6
+1339,New Mexico,2019,Overall,----5-11 years,Male,"White, non-Hispanic",0,6
+1340,New Mexico,2019,Overall,----6-<12 months,Female,"A/PI, non-Hispanic",4651.2,6
+1341,New Mexico,2019,Overall,----6-<12 months,Female,"AI/AN, non-Hispanic",5208.3,6
+1342,New Mexico,2019,Overall,----6-<12 months,Female,"Black, non-Hispanic",4958.7,6
+1343,New Mexico,2019,Overall,----6-<12 months,Female,Hispanic,967.1,6
+1344,New Mexico,2019,Overall,----6-<12 months,Female,"White, non-Hispanic",1778.7,6
+1345,New Mexico,2019,Overall,----6-<12 months,Male,"A/PI, non-Hispanic",0,6
+1346,New Mexico,2019,Overall,----6-<12 months,Male,"AI/AN, non-Hispanic",1000,6
+1347,New Mexico,2019,Overall,----6-<12 months,Male,"Black, non-Hispanic",4166.7,6
+1348,New Mexico,2019,Overall,----6-<12 months,Male,Hispanic,1296.9,6
+1349,New Mexico,2019,Overall,----6-<12 months,Male,"White, non-Hispanic",1328.3,6
+1350,New Mexico,2019,Overall,----65-74 years,Female,"A/PI, non-Hispanic",0,6
+1351,New Mexico,2019,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",91.9,6
+1352,New Mexico,2019,Overall,----65-74 years,Female,"Black, non-Hispanic",141.8,6
+1353,New Mexico,2019,Overall,----65-74 years,Female,Hispanic,30.9,6
+1354,New Mexico,2019,Overall,----65-74 years,Female,"White, non-Hispanic",18.5,6
+1355,New Mexico,2019,Overall,----65-74 years,Male,"A/PI, non-Hispanic",0,6
+1356,New Mexico,2019,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0,6
+1357,New Mexico,2019,Overall,----65-74 years,Male,"Black, non-Hispanic",113.9,6
+1358,New Mexico,2019,Overall,----65-74 years,Male,Hispanic,19,6
+1359,New Mexico,2019,Overall,----65-74 years,Male,"White, non-Hispanic",21.2,6
+1360,New Mexico,2019,Overall,----75-84 years,Female,"A/PI, non-Hispanic",0,6
+1361,New Mexico,2019,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0,6
+1362,New Mexico,2019,Overall,----75-84 years,Female,"Black, non-Hispanic",0,6
+1363,New Mexico,2019,Overall,----75-84 years,Female,Hispanic,91.5,6
+1364,New Mexico,2019,Overall,----75-84 years,Female,"White, non-Hispanic",83,6
+1365,New Mexico,2019,Overall,----75-84 years,Male,"A/PI, non-Hispanic",0,6
+1366,New Mexico,2019,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0,6
+1367,New Mexico,2019,Overall,----75-84 years,Male,"Black, non-Hispanic",0,6
+1368,New Mexico,2019,Overall,----75-84 years,Male,Hispanic,43.8,6
+1369,New Mexico,2019,Overall,----75-84 years,Male,"White, non-Hispanic",79.5,6
+1370,New Mexico,2019,Overall,----85+ years,Female,"A/PI, non-Hispanic",0,6
+1371,New Mexico,2019,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0,6
+1372,New Mexico,2019,Overall,----85+ years,Female,"Black, non-Hispanic",0,6
+1373,New Mexico,2019,Overall,----85+ years,Female,Hispanic,75.6,6
+1374,New Mexico,2019,Overall,----85+ years,Female,"White, non-Hispanic",116.7,6
+1375,New Mexico,2019,Overall,----85+ years,Male,"A/PI, non-Hispanic",0,6
+1376,New Mexico,2019,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0,6
+1377,New Mexico,2019,Overall,----85+ years,Male,"Black, non-Hispanic",0,6
+1378,New Mexico,2019,Overall,----85+ years,Male,Hispanic,0,6
+1379,New Mexico,2019,Overall,----85+ years,Male,"White, non-Hispanic",62.3,6
+1380,Utah,2019,Overall,----0-<6 months,Female,"A/PI, non-Hispanic",4569.4,8
+1381,Utah,2019,Overall,----0-<6 months,Female,"AI/AN, non-Hispanic",0,8
+1382,Utah,2019,Overall,----0-<6 months,Female,"Black, non-Hispanic",3827.8,8
+1383,Utah,2019,Overall,----0-<6 months,Female,Hispanic,2440.2,8
+1384,Utah,2019,Overall,----0-<6 months,Female,"White, non-Hispanic",1464.6,8
+1385,Utah,2019,Overall,----0-<6 months,Male,"A/PI, non-Hispanic",3460.2,8
+1386,Utah,2019,Overall,----0-<6 months,Male,"AI/AN, non-Hispanic",0,8
+1387,Utah,2019,Overall,----0-<6 months,Male,"Black, non-Hispanic",3603.6,8
+1388,Utah,2019,Overall,----0-<6 months,Male,Hispanic,1941.7,8
+1389,Utah,2019,Overall,----0-<6 months,Male,"White, non-Hispanic",2022.4,8
+1390,Utah,2019,Overall,----1-<2 years,Female,"A/PI, non-Hispanic",1890.4,8
+1391,Utah,2019,Overall,----1-<2 years,Female,"AI/AN, non-Hispanic",0,8
+1392,Utah,2019,Overall,----1-<2 years,Female,"Black, non-Hispanic",0,8
+1393,Utah,2019,Overall,----1-<2 years,Female,Hispanic,818.8,8
+1394,Utah,2019,Overall,----1-<2 years,Female,"White, non-Hispanic",400.4,8
+1395,Utah,2019,Overall,----1-<2 years,Male,"A/PI, non-Hispanic",2636.5,8
+1396,Utah,2019,Overall,----1-<2 years,Male,"AI/AN, non-Hispanic",2564.1,8
+1397,Utah,2019,Overall,----1-<2 years,Male,"Black, non-Hispanic",0,8
+1398,Utah,2019,Overall,----1-<2 years,Male,Hispanic,658.2,8
+1399,Utah,2019,Overall,----1-<2 years,Male,"White, non-Hispanic",392.7,8
+1400,Utah,2019,Overall,----12-17 years,Female,"A/PI, non-Hispanic",0,8
+1401,Utah,2019,Overall,----12-17 years,Female,"AI/AN, non-Hispanic",0,8
+1402,Utah,2019,Overall,----12-17 years,Female,"Black, non-Hispanic",0,8
+1403,Utah,2019,Overall,----12-17 years,Female,Hispanic,0,8
+1404,Utah,2019,Overall,----12-17 years,Female,"White, non-Hispanic",11.9,8
+1405,Utah,2019,Overall,----12-17 years,Male,"A/PI, non-Hispanic",0,8
+1406,Utah,2019,Overall,----12-17 years,Male,"AI/AN, non-Hispanic",0,8
+1407,Utah,2019,Overall,----12-17 years,Male,"Black, non-Hispanic",0,8
+1408,Utah,2019,Overall,----12-17 years,Male,Hispanic,0,8
+1409,Utah,2019,Overall,----12-17 years,Male,"White, non-Hispanic",0,8
+1410,Utah,2019,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0,8
+1411,Utah,2019,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0,8
+1412,Utah,2019,Overall,----18-29 years,Female,"Black, non-Hispanic",0,8
+1413,Utah,2019,Overall,----18-29 years,Female,Hispanic,0,8
+1414,Utah,2019,Overall,----18-29 years,Female,"White, non-Hispanic",1.4,8
+1415,Utah,2019,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0,8
+1416,Utah,2019,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0,8
+1417,Utah,2019,Overall,----18-29 years,Male,"Black, non-Hispanic",0,8
+1418,Utah,2019,Overall,----18-29 years,Male,Hispanic,8.4,8
+1419,Utah,2019,Overall,----18-29 years,Male,"White, non-Hispanic",1.4,8
+1420,Utah,2019,Overall,----2-4 years,Female,"A/PI, non-Hispanic",756.6,8
+1421,Utah,2019,Overall,----2-4 years,Female,"AI/AN, non-Hispanic",429.2,8
+1422,Utah,2019,Overall,----2-4 years,Female,"Black, non-Hispanic",125.3,8
+1423,Utah,2019,Overall,----2-4 years,Female,Hispanic,124.7,8
+1424,Utah,2019,Overall,----2-4 years,Female,"White, non-Hispanic",116.8,8
+1425,Utah,2019,Overall,----2-4 years,Male,"A/PI, non-Hispanic",134,8
+1426,Utah,2019,Overall,----2-4 years,Male,"AI/AN, non-Hispanic",0,8
+1427,Utah,2019,Overall,----2-4 years,Male,"Black, non-Hispanic",133,8
+1428,Utah,2019,Overall,----2-4 years,Male,Hispanic,214.4,8
+1429,Utah,2019,Overall,----2-4 years,Male,"White, non-Hispanic",126,8
+1430,Utah,2019,Overall,----30-39 years,Female,"A/PI, non-Hispanic",0,8
+1431,Utah,2019,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0,8
+1432,Utah,2019,Overall,----30-39 years,Female,"Black, non-Hispanic",0,8
+1433,Utah,2019,Overall,----30-39 years,Female,Hispanic,0,8
+1434,Utah,2019,Overall,----30-39 years,Female,"White, non-Hispanic",0,8
+1435,Utah,2019,Overall,----30-39 years,Male,"A/PI, non-Hispanic",0,8
+1436,Utah,2019,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0,8
+1437,Utah,2019,Overall,----30-39 years,Male,"Black, non-Hispanic",0,8
+1438,Utah,2019,Overall,----30-39 years,Male,Hispanic,5.8,8
+1439,Utah,2019,Overall,----30-39 years,Male,"White, non-Hispanic",6.1,8
+1440,Utah,2019,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0,8
+1441,Utah,2019,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",0,8
+1442,Utah,2019,Overall,----40-49 years,Female,"Black, non-Hispanic",0,8
+1443,Utah,2019,Overall,----40-49 years,Female,Hispanic,0,8
+1444,Utah,2019,Overall,----40-49 years,Female,"White, non-Hispanic",3.7,8
+1445,Utah,2019,Overall,----40-49 years,Male,"A/PI, non-Hispanic",0,8
+1446,Utah,2019,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",0,8
+1447,Utah,2019,Overall,----40-49 years,Male,"Black, non-Hispanic",61,8
+1448,Utah,2019,Overall,----40-49 years,Male,Hispanic,6.8,8
+1449,Utah,2019,Overall,----40-49 years,Male,"White, non-Hispanic",1.8,8
+1450,Utah,2019,Overall,----5-11 years,Female,"A/PI, non-Hispanic",57.6,8
+1451,Utah,2019,Overall,----5-11 years,Female,"AI/AN, non-Hispanic",0,8
+1452,Utah,2019,Overall,----5-11 years,Female,"Black, non-Hispanic",0,8
+1453,Utah,2019,Overall,----5-11 years,Female,Hispanic,20.1,8
+1454,Utah,2019,Overall,----5-11 years,Female,"White, non-Hispanic",15.7,8
+1455,Utah,2019,Overall,----5-11 years,Male,"A/PI, non-Hispanic",0,8
+1456,Utah,2019,Overall,----5-11 years,Male,"AI/AN, non-Hispanic",0,8
+1457,Utah,2019,Overall,----5-11 years,Male,"Black, non-Hispanic",0,8
+1458,Utah,2019,Overall,----5-11 years,Male,Hispanic,19.3,8
+1459,Utah,2019,Overall,----5-11 years,Male,"White, non-Hispanic",17.3,8
+1460,Utah,2019,Overall,----6-<12 months,Female,"A/PI, non-Hispanic",351.5,8
+1461,Utah,2019,Overall,----6-<12 months,Female,"AI/AN, non-Hispanic",0,8
+1462,Utah,2019,Overall,----6-<12 months,Female,"Black, non-Hispanic",956.9,8
+1463,Utah,2019,Overall,----6-<12 months,Female,Hispanic,488,8
+1464,Utah,2019,Overall,----6-<12 months,Female,"White, non-Hispanic",424,8
+1465,Utah,2019,Overall,----6-<12 months,Male,"A/PI, non-Hispanic",3806.2,8
+1466,Utah,2019,Overall,----6-<12 months,Male,"AI/AN, non-Hispanic",0,8
+1467,Utah,2019,Overall,----6-<12 months,Male,"Black, non-Hispanic",2702.7,8
+1468,Utah,2019,Overall,----6-<12 months,Male,Hispanic,554.8,8
+1469,Utah,2019,Overall,----6-<12 months,Male,"White, non-Hispanic",404.5,8
+1470,Utah,2019,Overall,----65-74 years,Female,"A/PI, non-Hispanic",49.9,8
+1471,Utah,2019,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",0,8
+1472,Utah,2019,Overall,----65-74 years,Female,"Black, non-Hispanic",0,8
+1473,Utah,2019,Overall,----65-74 years,Female,Hispanic,0,8
+1474,Utah,2019,Overall,----65-74 years,Female,"White, non-Hispanic",19.4,8
+1475,Utah,2019,Overall,----65-74 years,Male,"A/PI, non-Hispanic",0,8
+1476,Utah,2019,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0,8
+1477,Utah,2019,Overall,----65-74 years,Male,"Black, non-Hispanic",0,8
+1478,Utah,2019,Overall,----65-74 years,Male,Hispanic,33.4,8
+1479,Utah,2019,Overall,----65-74 years,Male,"White, non-Hispanic",40,8
+1480,Utah,2019,Overall,----75-84 years,Female,"A/PI, non-Hispanic",0,8
+1481,Utah,2019,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0,8
+1482,Utah,2019,Overall,----75-84 years,Female,"Black, non-Hispanic",0,8
+1483,Utah,2019,Overall,----75-84 years,Female,Hispanic,127.9,8
+1484,Utah,2019,Overall,----75-84 years,Female,"White, non-Hispanic",78.2,8
+1485,Utah,2019,Overall,----75-84 years,Male,"A/PI, non-Hispanic",160.3,8
+1486,Utah,2019,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0,8
+1487,Utah,2019,Overall,----75-84 years,Male,"Black, non-Hispanic",0,8
+1488,Utah,2019,Overall,----75-84 years,Male,Hispanic,87.6,8
+1489,Utah,2019,Overall,----75-84 years,Male,"White, non-Hispanic",49.9,8
+1490,Utah,2019,Overall,----85+ years,Female,"A/PI, non-Hispanic",0,8
+1491,Utah,2019,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0,8
+1492,Utah,2019,Overall,----85+ years,Female,"Black, non-Hispanic",0,8
+1493,Utah,2019,Overall,----85+ years,Female,Hispanic,0,8
+1494,Utah,2019,Overall,----85+ years,Female,"White, non-Hispanic",120.3,8
+1495,Utah,2019,Overall,----85+ years,Male,"A/PI, non-Hispanic",460.8,8
+1496,Utah,2019,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0,8
+1497,Utah,2019,Overall,----85+ years,Male,"Black, non-Hispanic",0,8
+1498,Utah,2019,Overall,----85+ years,Male,Hispanic,0,8
+1499,Utah,2019,Overall,----85+ years,Male,"White, non-Hispanic",105.5,8
+1500,Colorado,2020,Overall,----0-<6 months,Female,"A/PI, non-Hispanic",225.2,8
+1501,Colorado,2020,Overall,----0-<6 months,Female,"AI/AN, non-Hispanic",0,8
+1502,Colorado,2020,Overall,----0-<6 months,Female,"Black, non-Hispanic",717.5,8
+1503,Colorado,2020,Overall,----0-<6 months,Female,Hispanic,1290.8,8
+1504,Colorado,2020,Overall,----0-<6 months,Female,"White, non-Hispanic",960.2,8
+1505,Colorado,2020,Overall,----0-<6 months,Male,"A/PI, non-Hispanic",430.6,8
+1506,Colorado,2020,Overall,----0-<6 months,Male,"AI/AN, non-Hispanic",0,8
+1507,Colorado,2020,Overall,----0-<6 months,Male,"Black, non-Hispanic",1728.6,8
+1508,Colorado,2020,Overall,----0-<6 months,Male,Hispanic,1791.3,8
+1509,Colorado,2020,Overall,----0-<6 months,Male,"White, non-Hispanic",1075.3,8
+1510,Colorado,2020,Overall,----1-<2 years,Female,"A/PI, non-Hispanic",456.6,8
+1511,Colorado,2020,Overall,----1-<2 years,Female,"AI/AN, non-Hispanic",1052.6,8
+1512,Colorado,2020,Overall,----1-<2 years,Female,"Black, non-Hispanic",587.2,8
+1513,Colorado,2020,Overall,----1-<2 years,Female,Hispanic,376.5,8
+1514,Colorado,2020,Overall,----1-<2 years,Female,"White, non-Hispanic",278.9,8
+1515,Colorado,2020,Overall,----1-<2 years,Male,"A/PI, non-Hispanic",216.5,8
+1516,Colorado,2020,Overall,----1-<2 years,Male,"AI/AN, non-Hispanic",0,8
+1517,Colorado,2020,Overall,----1-<2 years,Male,"Black, non-Hispanic",473.2,8
+1518,Colorado,2020,Overall,----1-<2 years,Male,Hispanic,289.4,8
+1519,Colorado,2020,Overall,----1-<2 years,Male,"White, non-Hispanic",233.8,8
+1520,Colorado,2020,Overall,----12-17 years,Female,"A/PI, non-Hispanic",0,8
+1521,Colorado,2020,Overall,----12-17 years,Female,"AI/AN, non-Hispanic",0,8
+1522,Colorado,2020,Overall,----12-17 years,Female,"Black, non-Hispanic",0,8
+1523,Colorado,2020,Overall,----12-17 years,Female,Hispanic,0,8
+1524,Colorado,2020,Overall,----12-17 years,Female,"White, non-Hispanic",0,8
+1525,Colorado,2020,Overall,----12-17 years,Male,"A/PI, non-Hispanic",0,8
+1526,Colorado,2020,Overall,----12-17 years,Male,"AI/AN, non-Hispanic",0,8
+1527,Colorado,2020,Overall,----12-17 years,Male,"Black, non-Hispanic",0,8
+1528,Colorado,2020,Overall,----12-17 years,Male,Hispanic,0,8
+1529,Colorado,2020,Overall,----12-17 years,Male,"White, non-Hispanic",1.7,8
+1530,Colorado,2020,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0,8
+1531,Colorado,2020,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0,8
+1532,Colorado,2020,Overall,----18-29 years,Female,"Black, non-Hispanic",0,8
+1533,Colorado,2020,Overall,----18-29 years,Female,Hispanic,3,8
+1534,Colorado,2020,Overall,----18-29 years,Female,"White, non-Hispanic",0,8
+1535,Colorado,2020,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0,8
+1536,Colorado,2020,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0,8
+1537,Colorado,2020,Overall,----18-29 years,Male,"Black, non-Hispanic",0,8
+1538,Colorado,2020,Overall,----18-29 years,Male,Hispanic,1.4,8
+1539,Colorado,2020,Overall,----18-29 years,Male,"White, non-Hispanic",0,8
+1540,Colorado,2020,Overall,----2-4 years,Female,"A/PI, non-Hispanic",241.2,8
+1541,Colorado,2020,Overall,----2-4 years,Female,"AI/AN, non-Hispanic",0,8
+1542,Colorado,2020,Overall,----2-4 years,Female,"Black, non-Hispanic",73.3,8
+1543,Colorado,2020,Overall,----2-4 years,Female,Hispanic,149.7,8
+1544,Colorado,2020,Overall,----2-4 years,Female,"White, non-Hispanic",106.5,8
+1545,Colorado,2020,Overall,----2-4 years,Male,"A/PI, non-Hispanic",136.5,8
+1546,Colorado,2020,Overall,----2-4 years,Male,"AI/AN, non-Hispanic",406.5,8
+1547,Colorado,2020,Overall,----2-4 years,Male,"Black, non-Hispanic",220,8
+1548,Colorado,2020,Overall,----2-4 years,Male,Hispanic,171.9,8
+1549,Colorado,2020,Overall,----2-4 years,Male,"White, non-Hispanic",113.6,8
+1550,Colorado,2020,Overall,----30-39 years,Female,"A/PI, non-Hispanic",0,8
+1551,Colorado,2020,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",66,8
+1552,Colorado,2020,Overall,----30-39 years,Female,"Black, non-Hispanic",0,8
+1553,Colorado,2020,Overall,----30-39 years,Female,Hispanic,1.9,8
+1554,Colorado,2020,Overall,----30-39 years,Female,"White, non-Hispanic",3.3,8
+1555,Colorado,2020,Overall,----30-39 years,Male,"A/PI, non-Hispanic",7.1,8
+1556,Colorado,2020,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0,8
+1557,Colorado,2020,Overall,----30-39 years,Male,"Black, non-Hispanic",0,8
+1558,Colorado,2020,Overall,----30-39 years,Male,Hispanic,1.8,8
+1559,Colorado,2020,Overall,----30-39 years,Male,"White, non-Hispanic",3.1,8
+1560,Colorado,2020,Overall,----40-49 years,Female,"A/PI, non-Hispanic",8.2,8
+1561,Colorado,2020,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",0,8
+1562,Colorado,2020,Overall,----40-49 years,Female,"Black, non-Hispanic",0,8
+1563,Colorado,2020,Overall,----40-49 years,Female,Hispanic,6.7,8
+1564,Colorado,2020,Overall,----40-49 years,Female,"White, non-Hispanic",0,8
+1565,Colorado,2020,Overall,----40-49 years,Male,"A/PI, non-Hispanic",0,8
+1566,Colorado,2020,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",0,8
+1567,Colorado,2020,Overall,----40-49 years,Male,"Black, non-Hispanic",7.8,8
+1568,Colorado,2020,Overall,----40-49 years,Male,Hispanic,2.1,8
+1569,Colorado,2020,Overall,----40-49 years,Male,"White, non-Hispanic",4.7,8
+1570,Colorado,2020,Overall,----5-11 years,Female,"A/PI, non-Hispanic",29.9,8
+1571,Colorado,2020,Overall,----5-11 years,Female,"AI/AN, non-Hispanic",154.6,8
+1572,Colorado,2020,Overall,----5-11 years,Female,"Black, non-Hispanic",0,8
+1573,Colorado,2020,Overall,----5-11 years,Female,Hispanic,2.5,8
+1574,Colorado,2020,Overall,----5-11 years,Female,"White, non-Hispanic",11.4,8
+1575,Colorado,2020,Overall,----5-11 years,Male,"A/PI, non-Hispanic",29.9,8
+1576,Colorado,2020,Overall,----5-11 years,Male,"AI/AN, non-Hispanic",0,8
+1577,Colorado,2020,Overall,----5-11 years,Male,"Black, non-Hispanic",0,8
+1578,Colorado,2020,Overall,----5-11 years,Male,Hispanic,19.6,8
+1579,Colorado,2020,Overall,----5-11 years,Male,"White, non-Hispanic",7.7,8
+1580,Colorado,2020,Overall,----6-<12 months,Female,"A/PI, non-Hispanic",225.2,8
+1581,Colorado,2020,Overall,----6-<12 months,Female,"AI/AN, non-Hispanic",0,8
+1582,Colorado,2020,Overall,----6-<12 months,Female,"Black, non-Hispanic",358.7,8
+1583,Colorado,2020,Overall,----6-<12 months,Female,Hispanic,455.6,8
+1584,Colorado,2020,Overall,----6-<12 months,Female,"White, non-Hispanic",562.1,8
+1585,Colorado,2020,Overall,----6-<12 months,Male,"A/PI, non-Hispanic",0,8
+1586,Colorado,2020,Overall,----6-<12 months,Male,"AI/AN, non-Hispanic",0,8
+1587,Colorado,2020,Overall,----6-<12 months,Male,"Black, non-Hispanic",1382.9,8
+1588,Colorado,2020,Overall,----6-<12 months,Male,Hispanic,511.8,8
+1589,Colorado,2020,Overall,----6-<12 months,Male,"White, non-Hispanic",448,8
+1590,Colorado,2020,Overall,----65-74 years,Female,"A/PI, non-Hispanic",19.9,8
+1591,Colorado,2020,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",0,8
+1592,Colorado,2020,Overall,----65-74 years,Female,"Black, non-Hispanic",0,8
+1593,Colorado,2020,Overall,----65-74 years,Female,Hispanic,44.5,8
+1594,Colorado,2020,Overall,----65-74 years,Female,"White, non-Hispanic",21,8
+1595,Colorado,2020,Overall,----65-74 years,Male,"A/PI, non-Hispanic",0,8
+1596,Colorado,2020,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",357.8,8
+1597,Colorado,2020,Overall,----65-74 years,Male,"Black, non-Hispanic",35,8
+1598,Colorado,2020,Overall,----65-74 years,Male,Hispanic,22.6,8
+1599,Colorado,2020,Overall,----65-74 years,Male,"White, non-Hispanic",24.7,8
+1600,Colorado,2020,Overall,----75-84 years,Female,"A/PI, non-Hispanic",0,8
+1601,Colorado,2020,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0,8
+1602,Colorado,2020,Overall,----75-84 years,Female,"Black, non-Hispanic",70.6,8
+1603,Colorado,2020,Overall,----75-84 years,Female,Hispanic,98.1,8
+1604,Colorado,2020,Overall,----75-84 years,Female,"White, non-Hispanic",63.6,8
+1605,Colorado,2020,Overall,----75-84 years,Male,"A/PI, non-Hispanic",172.4,8
+1606,Colorado,2020,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0,8
+1607,Colorado,2020,Overall,----75-84 years,Male,"Black, non-Hispanic",49.9,8
+1608,Colorado,2020,Overall,----75-84 years,Male,Hispanic,56.1,8
+1609,Colorado,2020,Overall,----75-84 years,Male,"White, non-Hispanic",62.6,8
+1610,Colorado,2020,Overall,----85+ years,Female,"A/PI, non-Hispanic",0,8
+1611,Colorado,2020,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0,8
+1612,Colorado,2020,Overall,----85+ years,Female,"Black, non-Hispanic",84.7,8
+1613,Colorado,2020,Overall,----85+ years,Female,Hispanic,36.1,8
+1614,Colorado,2020,Overall,----85+ years,Female,"White, non-Hispanic",161.2,8
+1615,Colorado,2020,Overall,----85+ years,Male,"A/PI, non-Hispanic",174.8,8
+1616,Colorado,2020,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0,8
+1617,Colorado,2020,Overall,----85+ years,Male,"Black, non-Hispanic",0,8
+1618,Colorado,2020,Overall,----85+ years,Male,Hispanic,62.3,8
+1619,Colorado,2020,Overall,----85+ years,Male,"White, non-Hispanic",81.5,8
+1620,Connecticut,2020,Overall,----0-<6 months,Female,"A/PI, non-Hispanic",2020.2,1
+1621,Connecticut,2020,Overall,----0-<6 months,Female,"AI/AN, non-Hispanic",0,1
+1622,Connecticut,2020,Overall,----0-<6 months,Female,"Black, non-Hispanic",582.2,1
+1623,Connecticut,2020,Overall,----0-<6 months,Female,Hispanic,756.4,1
+1624,Connecticut,2020,Overall,----0-<6 months,Female,"White, non-Hispanic",853.3,1
+1625,Connecticut,2020,Overall,----0-<6 months,Male,"A/PI, non-Hispanic",930.2,1
+1626,Connecticut,2020,Overall,----0-<6 months,Male,"AI/AN, non-Hispanic",0,1
+1627,Connecticut,2020,Overall,----0-<6 months,Male,"Black, non-Hispanic",1697.3,1
+1628,Connecticut,2020,Overall,----0-<6 months,Male,Hispanic,1013,1
+1629,Connecticut,2020,Overall,----0-<6 months,Male,"White, non-Hispanic",1111.1,1
+1630,Connecticut,2020,Overall,----1-<2 years,Female,"A/PI, non-Hispanic",0,1
+1631,Connecticut,2020,Overall,----1-<2 years,Female,"AI/AN, non-Hispanic",0,1
+1632,Connecticut,2020,Overall,----1-<2 years,Female,"Black, non-Hispanic",284.1,1
+1633,Connecticut,2020,Overall,----1-<2 years,Female,Hispanic,72.9,1
+1634,Connecticut,2020,Overall,----1-<2 years,Female,"White, non-Hispanic",266.1,1
+1635,Connecticut,2020,Overall,----1-<2 years,Male,"A/PI, non-Hispanic",1357.5,1
+1636,Connecticut,2020,Overall,----1-<2 years,Male,"AI/AN, non-Hispanic",0,1
+1637,Connecticut,2020,Overall,----1-<2 years,Male,"Black, non-Hispanic",406.5,1
+1638,Connecticut,2020,Overall,----1-<2 years,Male,Hispanic,274.2,1
+1639,Connecticut,2020,Overall,----1-<2 years,Male,"White, non-Hispanic",203.8,1
+1640,Connecticut,2020,Overall,----12-17 years,Female,"A/PI, non-Hispanic",0,1
+1641,Connecticut,2020,Overall,----12-17 years,Female,"AI/AN, non-Hispanic",0,1
+1642,Connecticut,2020,Overall,----12-17 years,Female,"Black, non-Hispanic",0,1
+1643,Connecticut,2020,Overall,----12-17 years,Female,Hispanic,0,1
+1644,Connecticut,2020,Overall,----12-17 years,Female,"White, non-Hispanic",0,1
+1645,Connecticut,2020,Overall,----12-17 years,Male,"A/PI, non-Hispanic",0,1
+1646,Connecticut,2020,Overall,----12-17 years,Male,"AI/AN, non-Hispanic",0,1
+1647,Connecticut,2020,Overall,----12-17 years,Male,"Black, non-Hispanic",0,1
+1648,Connecticut,2020,Overall,----12-17 years,Male,Hispanic,0,1
+1649,Connecticut,2020,Overall,----12-17 years,Male,"White, non-Hispanic",0,1
+1650,Connecticut,2020,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0,1
+1651,Connecticut,2020,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0,1
+1652,Connecticut,2020,Overall,----18-29 years,Female,"Black, non-Hispanic",0,1
+1653,Connecticut,2020,Overall,----18-29 years,Female,Hispanic,6,1
+1654,Connecticut,2020,Overall,----18-29 years,Female,"White, non-Hispanic",0,1
+1655,Connecticut,2020,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0,1
+1656,Connecticut,2020,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0,1
+1657,Connecticut,2020,Overall,----18-29 years,Male,"Black, non-Hispanic",0,1
+1658,Connecticut,2020,Overall,----18-29 years,Male,Hispanic,5.8,1
+1659,Connecticut,2020,Overall,----18-29 years,Male,"White, non-Hispanic",0,1
+1660,Connecticut,2020,Overall,----2-4 years,Female,"A/PI, non-Hispanic",0,1
+1661,Connecticut,2020,Overall,----2-4 years,Female,"AI/AN, non-Hispanic",0,1
+1662,Connecticut,2020,Overall,----2-4 years,Female,"Black, non-Hispanic",48,1
+1663,Connecticut,2020,Overall,----2-4 years,Female,Hispanic,68.8,1
+1664,Connecticut,2020,Overall,----2-4 years,Female,"White, non-Hispanic",49.2,1
+1665,Connecticut,2020,Overall,----2-4 years,Male,"A/PI, non-Hispanic",0,1
+1666,Connecticut,2020,Overall,----2-4 years,Male,"AI/AN, non-Hispanic",0,1
+1667,Connecticut,2020,Overall,----2-4 years,Male,"Black, non-Hispanic",89.4,1
+1668,Connecticut,2020,Overall,----2-4 years,Male,Hispanic,161.8,1
+1669,Connecticut,2020,Overall,----2-4 years,Male,"White, non-Hispanic",32.3,1
+1670,Connecticut,2020,Overall,----30-39 years,Female,"A/PI, non-Hispanic",0,1
+1671,Connecticut,2020,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0,1
+1672,Connecticut,2020,Overall,----30-39 years,Female,"Black, non-Hispanic",0,1
+1673,Connecticut,2020,Overall,----30-39 years,Female,Hispanic,7.8,1
+1674,Connecticut,2020,Overall,----30-39 years,Female,"White, non-Hispanic",0,1
+1675,Connecticut,2020,Overall,----30-39 years,Male,"A/PI, non-Hispanic",0,1
+1676,Connecticut,2020,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0,1
+1677,Connecticut,2020,Overall,----30-39 years,Male,"Black, non-Hispanic",0,1
+1678,Connecticut,2020,Overall,----30-39 years,Male,Hispanic,0,1
+1679,Connecticut,2020,Overall,----30-39 years,Male,"White, non-Hispanic",3.3,1
+1680,Connecticut,2020,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0,1
+1681,Connecticut,2020,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",0,1
+1682,Connecticut,2020,Overall,----40-49 years,Female,"Black, non-Hispanic",0,1
+1683,Connecticut,2020,Overall,----40-49 years,Female,Hispanic,8.5,1
+1684,Connecticut,2020,Overall,----40-49 years,Female,"White, non-Hispanic",3.5,1
+1685,Connecticut,2020,Overall,----40-49 years,Male,"A/PI, non-Hispanic",0,1
+1686,Connecticut,2020,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",0,1
+1687,Connecticut,2020,Overall,----40-49 years,Male,"Black, non-Hispanic",0,1
+1688,Connecticut,2020,Overall,----40-49 years,Male,Hispanic,19.1,1
+1689,Connecticut,2020,Overall,----40-49 years,Male,"White, non-Hispanic",0,1
+1690,Connecticut,2020,Overall,----5-11 years,Female,"A/PI, non-Hispanic",74.3,1
+1691,Connecticut,2020,Overall,----5-11 years,Female,"AI/AN, non-Hispanic",0,1
+1692,Connecticut,2020,Overall,----5-11 years,Female,"Black, non-Hispanic",0,1
+1693,Connecticut,2020,Overall,----5-11 years,Female,Hispanic,10.3,1
+1694,Connecticut,2020,Overall,----5-11 years,Female,"White, non-Hispanic",13.6,1
+1695,Connecticut,2020,Overall,----5-11 years,Male,"A/PI, non-Hispanic",0,1
+1696,Connecticut,2020,Overall,----5-11 years,Male,"AI/AN, non-Hispanic",0,1
+1697,Connecticut,2020,Overall,----5-11 years,Male,"Black, non-Hispanic",17.6,1
+1698,Connecticut,2020,Overall,----5-11 years,Male,Hispanic,29.2,1
+1699,Connecticut,2020,Overall,----5-11 years,Male,"White, non-Hispanic",19.3,1
+1700,Connecticut,2020,Overall,----6-<12 months,Female,"A/PI, non-Hispanic",0,1
+1701,Connecticut,2020,Overall,----6-<12 months,Female,"AI/AN, non-Hispanic",0,1
+1702,Connecticut,2020,Overall,----6-<12 months,Female,"Black, non-Hispanic",0,1
+1703,Connecticut,2020,Overall,----6-<12 months,Female,Hispanic,302.6,1
+1704,Connecticut,2020,Overall,----6-<12 months,Female,"White, non-Hispanic",640,1
+1705,Connecticut,2020,Overall,----6-<12 months,Male,"A/PI, non-Hispanic",0,1
+1706,Connecticut,2020,Overall,----6-<12 months,Male,"AI/AN, non-Hispanic",0,1
+1707,Connecticut,2020,Overall,----6-<12 months,Male,"Black, non-Hispanic",565.8,1
+1708,Connecticut,2020,Overall,----6-<12 months,Male,Hispanic,144.7,1
+1709,Connecticut,2020,Overall,----6-<12 months,Male,"White, non-Hispanic",303,1
+1710,Connecticut,2020,Overall,----65-74 years,Female,"A/PI, non-Hispanic",0,1
+1711,Connecticut,2020,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",0,1
+1712,Connecticut,2020,Overall,----65-74 years,Female,"Black, non-Hispanic",129.8,1
+1713,Connecticut,2020,Overall,----65-74 years,Female,Hispanic,77.7,1
+1714,Connecticut,2020,Overall,----65-74 years,Female,"White, non-Hispanic",29.2,1
+1715,Connecticut,2020,Overall,----65-74 years,Male,"A/PI, non-Hispanic",0,1
+1716,Connecticut,2020,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0,1
+1717,Connecticut,2020,Overall,----65-74 years,Male,"Black, non-Hispanic",30.3,1
+1718,Connecticut,2020,Overall,----65-74 years,Male,Hispanic,32.4,1
+1719,Connecticut,2020,Overall,----65-74 years,Male,"White, non-Hispanic",36.7,1
+1720,Connecticut,2020,Overall,----75-84 years,Female,"A/PI, non-Hispanic",173.3,1
+1721,Connecticut,2020,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0,1
+1722,Connecticut,2020,Overall,----75-84 years,Female,"Black, non-Hispanic",157.9,1
+1723,Connecticut,2020,Overall,----75-84 years,Female,Hispanic,117.4,1
+1724,Connecticut,2020,Overall,----75-84 years,Female,"White, non-Hispanic",79.1,1
+1725,Connecticut,2020,Overall,----75-84 years,Male,"A/PI, non-Hispanic",0,1
+1726,Connecticut,2020,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0,1
+1727,Connecticut,2020,Overall,----75-84 years,Male,"Black, non-Hispanic",66.6,1
+1728,Connecticut,2020,Overall,----75-84 years,Male,Hispanic,0,1
+1729,Connecticut,2020,Overall,----75-84 years,Male,"White, non-Hispanic",86.4,1
+1730,Connecticut,2020,Overall,----85+ years,Female,"A/PI, non-Hispanic",0,1
+1731,Connecticut,2020,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0,1
+1732,Connecticut,2020,Overall,----85+ years,Female,"Black, non-Hispanic",100.2,1
+1733,Connecticut,2020,Overall,----85+ years,Female,Hispanic,144.5,1
+1734,Connecticut,2020,Overall,----85+ years,Female,"White, non-Hispanic",166.7,1
+1735,Connecticut,2020,Overall,----85+ years,Male,"A/PI, non-Hispanic",704.2,1
+1736,Connecticut,2020,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0,1
+1737,Connecticut,2020,Overall,----85+ years,Male,"Black, non-Hispanic",0,1
+1738,Connecticut,2020,Overall,----85+ years,Male,Hispanic,259.7,1
+1739,Connecticut,2020,Overall,----85+ years,Male,"White, non-Hispanic",217.2,1
+1740,Michigan,2020,Overall,----0-<6 months,Female,"A/PI, non-Hispanic",0,5
+1741,Michigan,2020,Overall,----0-<6 months,Female,"AI/AN, non-Hispanic",0,5
+1742,Michigan,2020,Overall,----0-<6 months,Female,"Black, non-Hispanic",2178.6,5
+1743,Michigan,2020,Overall,----0-<6 months,Female,Hispanic,1087,5
+1744,Michigan,2020,Overall,----0-<6 months,Female,"White, non-Hispanic",1659.4,5
+1745,Michigan,2020,Overall,----0-<6 months,Male,"A/PI, non-Hispanic",0,5
+1746,Michigan,2020,Overall,----0-<6 months,Male,"AI/AN, non-Hispanic",0,5
+1747,Michigan,2020,Overall,----0-<6 months,Male,"Black, non-Hispanic",3178,5
+1748,Michigan,2020,Overall,----0-<6 months,Male,Hispanic,3092.8,5
+1749,Michigan,2020,Overall,----0-<6 months,Male,"White, non-Hispanic",3400.1,5
+1750,Michigan,2020,Overall,----1-<2 years,Female,"A/PI, non-Hispanic",0,5
+1751,Michigan,2020,Overall,----1-<2 years,Female,"AI/AN, non-Hispanic",0,5
+1752,Michigan,2020,Overall,----1-<2 years,Female,"Black, non-Hispanic",815.5,5
+1753,Michigan,2020,Overall,----1-<2 years,Female,Hispanic,0,5
+1754,Michigan,2020,Overall,----1-<2 years,Female,"White, non-Hispanic",317.5,5
+1755,Michigan,2020,Overall,----1-<2 years,Male,"A/PI, non-Hispanic",0,5
+1756,Michigan,2020,Overall,----1-<2 years,Male,"AI/AN, non-Hispanic",0,5
+1757,Michigan,2020,Overall,----1-<2 years,Male,"Black, non-Hispanic",624.3,5
+1758,Michigan,2020,Overall,----1-<2 years,Male,Hispanic,371.7,5
+1759,Michigan,2020,Overall,----1-<2 years,Male,"White, non-Hispanic",738,5
+1760,Michigan,2020,Overall,----12-17 years,Female,"A/PI, non-Hispanic",72.7,5
+1761,Michigan,2020,Overall,----12-17 years,Female,"AI/AN, non-Hispanic",0,5
+1762,Michigan,2020,Overall,----12-17 years,Female,"Black, non-Hispanic",0,5
+1763,Michigan,2020,Overall,----12-17 years,Female,Hispanic,0,5
+1764,Michigan,2020,Overall,----12-17 years,Female,"White, non-Hispanic",5.6,5
+1765,Michigan,2020,Overall,----12-17 years,Male,"A/PI, non-Hispanic",0,5
+1766,Michigan,2020,Overall,----12-17 years,Male,"AI/AN, non-Hispanic",0,5
+1767,Michigan,2020,Overall,----12-17 years,Male,"Black, non-Hispanic",16.4,5
+1768,Michigan,2020,Overall,----12-17 years,Male,Hispanic,0,5
+1769,Michigan,2020,Overall,----12-17 years,Male,"White, non-Hispanic",0,5
+1770,Michigan,2020,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0,5
+1771,Michigan,2020,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0,5
+1772,Michigan,2020,Overall,----18-29 years,Female,"Black, non-Hispanic",6.8,5
+1773,Michigan,2020,Overall,----18-29 years,Female,Hispanic,22,5
+1774,Michigan,2020,Overall,----18-29 years,Female,"White, non-Hispanic",1.9,5
+1775,Michigan,2020,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0,5
+1776,Michigan,2020,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0,5
+1777,Michigan,2020,Overall,----18-29 years,Male,"Black, non-Hispanic",7.2,5
+1778,Michigan,2020,Overall,----18-29 years,Male,Hispanic,0,5
+1779,Michigan,2020,Overall,----18-29 years,Male,"White, non-Hispanic",0,5
+1780,Michigan,2020,Overall,----2-4 years,Female,"A/PI, non-Hispanic",0,5
+1781,Michigan,2020,Overall,----2-4 years,Female,"AI/AN, non-Hispanic",0,5
+1782,Michigan,2020,Overall,----2-4 years,Female,"Black, non-Hispanic",327.8,5
+1783,Michigan,2020,Overall,----2-4 years,Female,Hispanic,243.9,5
+1784,Michigan,2020,Overall,----2-4 years,Female,"White, non-Hispanic",140,5
+1785,Michigan,2020,Overall,----2-4 years,Male,"A/PI, non-Hispanic",0,5
+1786,Michigan,2020,Overall,----2-4 years,Male,"AI/AN, non-Hispanic",0,5
+1787,Michigan,2020,Overall,----2-4 years,Male,"Black, non-Hispanic",227.6,5
+1788,Michigan,2020,Overall,----2-4 years,Male,Hispanic,0,5
+1789,Michigan,2020,Overall,----2-4 years,Male,"White, non-Hispanic",85.8,5
+1790,Michigan,2020,Overall,----30-39 years,Female,"A/PI, non-Hispanic",0,5
+1791,Michigan,2020,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0,5
+1792,Michigan,2020,Overall,----30-39 years,Female,"Black, non-Hispanic",0,5
+1793,Michigan,2020,Overall,----30-39 years,Female,Hispanic,42,5
+1794,Michigan,2020,Overall,----30-39 years,Female,"White, non-Hispanic",12.1,5
+1795,Michigan,2020,Overall,----30-39 years,Male,"A/PI, non-Hispanic",0,5
+1796,Michigan,2020,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0,5
+1797,Michigan,2020,Overall,----30-39 years,Male,"Black, non-Hispanic",13.4,5
+1798,Michigan,2020,Overall,----30-39 years,Male,Hispanic,0,5
+1799,Michigan,2020,Overall,----30-39 years,Male,"White, non-Hispanic",3,5
+1800,Michigan,2020,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0,5
+1801,Michigan,2020,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",0,5
+1802,Michigan,2020,Overall,----40-49 years,Female,"Black, non-Hispanic",0,5
+1803,Michigan,2020,Overall,----40-49 years,Female,Hispanic,0,5
+1804,Michigan,2020,Overall,----40-49 years,Female,"White, non-Hispanic",6.1,5
+1805,Michigan,2020,Overall,----40-49 years,Male,"A/PI, non-Hispanic",39.6,5
+1806,Michigan,2020,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",0,5
+1807,Michigan,2020,Overall,----40-49 years,Male,"Black, non-Hispanic",0,5
+1808,Michigan,2020,Overall,----40-49 years,Male,Hispanic,0,5
+1809,Michigan,2020,Overall,----40-49 years,Male,"White, non-Hispanic",6.3,5
+1810,Michigan,2020,Overall,----5-11 years,Female,"A/PI, non-Hispanic",0,5
+1811,Michigan,2020,Overall,----5-11 years,Female,"AI/AN, non-Hispanic",0,5
+1812,Michigan,2020,Overall,----5-11 years,Female,"Black, non-Hispanic",14.4,5
+1813,Michigan,2020,Overall,----5-11 years,Female,Hispanic,0,5
+1814,Michigan,2020,Overall,----5-11 years,Female,"White, non-Hispanic",5.2,5
+1815,Michigan,2020,Overall,----5-11 years,Male,"A/PI, non-Hispanic",0,5
+1816,Michigan,2020,Overall,----5-11 years,Male,"AI/AN, non-Hispanic",0,5
+1817,Michigan,2020,Overall,----5-11 years,Male,"Black, non-Hispanic",13.8,5
+1818,Michigan,2020,Overall,----5-11 years,Male,Hispanic,0,5
+1819,Michigan,2020,Overall,----5-11 years,Male,"White, non-Hispanic",20,5
+1820,Michigan,2020,Overall,----6-<12 months,Female,"A/PI, non-Hispanic",0,5
+1821,Michigan,2020,Overall,----6-<12 months,Female,"AI/AN, non-Hispanic",0,5
+1822,Michigan,2020,Overall,----6-<12 months,Female,"Black, non-Hispanic",653.6,5
+1823,Michigan,2020,Overall,----6-<12 months,Female,Hispanic,0,5
+1824,Michigan,2020,Overall,----6-<12 months,Female,"White, non-Hispanic",711.2,5
+1825,Michigan,2020,Overall,----6-<12 months,Male,"A/PI, non-Hispanic",0,5
+1826,Michigan,2020,Overall,----6-<12 months,Male,"AI/AN, non-Hispanic",0,5
+1827,Michigan,2020,Overall,----6-<12 months,Male,"Black, non-Hispanic",2542.4,5
+1828,Michigan,2020,Overall,----6-<12 months,Male,Hispanic,0,5
+1829,Michigan,2020,Overall,----6-<12 months,Male,"White, non-Hispanic",1057.8,5
+1830,Michigan,2020,Overall,----65-74 years,Female,"A/PI, non-Hispanic",0,5
+1831,Michigan,2020,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",0,5
+1832,Michigan,2020,Overall,----65-74 years,Female,"Black, non-Hispanic",16.5,5
+1833,Michigan,2020,Overall,----65-74 years,Female,Hispanic,0,5
+1834,Michigan,2020,Overall,----65-74 years,Female,"White, non-Hispanic",44.7,5
+1835,Michigan,2020,Overall,----65-74 years,Male,"A/PI, non-Hispanic",0,5
+1836,Michigan,2020,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0,5
+1837,Michigan,2020,Overall,----65-74 years,Male,"Black, non-Hispanic",21.6,5
+1838,Michigan,2020,Overall,----65-74 years,Male,Hispanic,0,5
+1839,Michigan,2020,Overall,----65-74 years,Male,"White, non-Hispanic",37.8,5
+1840,Michigan,2020,Overall,----75-84 years,Female,"A/PI, non-Hispanic",0,5
+1841,Michigan,2020,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0,5
+1842,Michigan,2020,Overall,----75-84 years,Female,"Black, non-Hispanic",72.7,5
+1843,Michigan,2020,Overall,----75-84 years,Female,Hispanic,0,5
+1844,Michigan,2020,Overall,----75-84 years,Female,"White, non-Hispanic",69.4,5
+1845,Michigan,2020,Overall,----75-84 years,Male,"A/PI, non-Hispanic",0,5
+1846,Michigan,2020,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0,5
+1847,Michigan,2020,Overall,----75-84 years,Male,"Black, non-Hispanic",0,5
+1848,Michigan,2020,Overall,----75-84 years,Male,Hispanic,0,5
+1849,Michigan,2020,Overall,----75-84 years,Male,"White, non-Hispanic",103.1,5
+1850,Michigan,2020,Overall,----85+ years,Female,"A/PI, non-Hispanic",0,5
+1851,Michigan,2020,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0,5
+1852,Michigan,2020,Overall,----85+ years,Female,"Black, non-Hispanic",177.8,5
+1853,Michigan,2020,Overall,----85+ years,Female,Hispanic,0,5
+1854,Michigan,2020,Overall,----85+ years,Female,"White, non-Hispanic",148,5
+1855,Michigan,2020,Overall,----85+ years,Male,"A/PI, non-Hispanic",0,5
+1856,Michigan,2020,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0,5
+1857,Michigan,2020,Overall,----85+ years,Male,"Black, non-Hispanic",163.9,5
+1858,Michigan,2020,Overall,----85+ years,Male,Hispanic,0,5
+1859,Michigan,2020,Overall,----85+ years,Male,"White, non-Hispanic",222.7,5
+1860,Utah,2020,Overall,----0-<6 months,Female,"A/PI, non-Hispanic",978.8,8
+1861,Utah,2020,Overall,----0-<6 months,Female,"AI/AN, non-Hispanic",0,8
+1862,Utah,2020,Overall,----0-<6 months,Female,"Black, non-Hispanic",900.9,8
+1863,Utah,2020,Overall,----0-<6 months,Female,Hispanic,2454,8
+1864,Utah,2020,Overall,----0-<6 months,Female,"White, non-Hispanic",1282.8,8
+1865,Utah,2020,Overall,----0-<6 months,Male,"A/PI, non-Hispanic",3470,8
+1866,Utah,2020,Overall,----0-<6 months,Male,"AI/AN, non-Hispanic",0,8
+1867,Utah,2020,Overall,----0-<6 months,Male,"Black, non-Hispanic",858.4,8
+1868,Utah,2020,Overall,----0-<6 months,Male,Hispanic,2623.2,8
+1869,Utah,2020,Overall,----0-<6 months,Male,"White, non-Hispanic",1581.3,8
+1870,Utah,2020,Overall,----1-<2 years,Female,"A/PI, non-Hispanic",1256.7,8
+1871,Utah,2020,Overall,----1-<2 years,Female,"AI/AN, non-Hispanic",1492.5,8
+1872,Utah,2020,Overall,----1-<2 years,Female,"Black, non-Hispanic",450.5,8
+1873,Utah,2020,Overall,----1-<2 years,Female,Hispanic,423.1,8
+1874,Utah,2020,Overall,----1-<2 years,Female,"White, non-Hispanic",526.4,8
+1875,Utah,2020,Overall,----1-<2 years,Male,"A/PI, non-Hispanic",519,8
+1876,Utah,2020,Overall,----1-<2 years,Male,"AI/AN, non-Hispanic",0,8
+1877,Utah,2020,Overall,----1-<2 years,Male,"Black, non-Hispanic",452.5,8
+1878,Utah,2020,Overall,----1-<2 years,Male,Hispanic,818.6,8
+1879,Utah,2020,Overall,----1-<2 years,Male,"White, non-Hispanic",357.6,8
+1880,Utah,2020,Overall,----12-17 years,Female,"A/PI, non-Hispanic",0,8
+1881,Utah,2020,Overall,----12-17 years,Female,"AI/AN, non-Hispanic",0,8
+1882,Utah,2020,Overall,----12-17 years,Female,"Black, non-Hispanic",0,8
+1883,Utah,2020,Overall,----12-17 years,Female,Hispanic,0,8
+1884,Utah,2020,Overall,----12-17 years,Female,"White, non-Hispanic",0,8
+1885,Utah,2020,Overall,----12-17 years,Male,"A/PI, non-Hispanic",0,8
+1886,Utah,2020,Overall,----12-17 years,Male,"AI/AN, non-Hispanic",0,8
+1887,Utah,2020,Overall,----12-17 years,Male,"Black, non-Hispanic",0,8
+1888,Utah,2020,Overall,----12-17 years,Male,Hispanic,15.5,8
+1889,Utah,2020,Overall,----12-17 years,Male,"White, non-Hispanic",14.1,8
+1890,Utah,2020,Overall,----18-29 years,Female,"A/PI, non-Hispanic",0,8
+1891,Utah,2020,Overall,----18-29 years,Female,"AI/AN, non-Hispanic",0,8
+1892,Utah,2020,Overall,----18-29 years,Female,"Black, non-Hispanic",0,8
+1893,Utah,2020,Overall,----18-29 years,Female,Hispanic,8.8,8
+1894,Utah,2020,Overall,----18-29 years,Female,"White, non-Hispanic",1.5,8
+1895,Utah,2020,Overall,----18-29 years,Male,"A/PI, non-Hispanic",0,8
+1896,Utah,2020,Overall,----18-29 years,Male,"AI/AN, non-Hispanic",0,8
+1897,Utah,2020,Overall,----18-29 years,Male,"Black, non-Hispanic",0,8
+1898,Utah,2020,Overall,----18-29 years,Male,Hispanic,0,8
+1899,Utah,2020,Overall,----18-29 years,Male,"White, non-Hispanic",0,8
+1900,Utah,2020,Overall,----2-4 years,Female,"A/PI, non-Hispanic",340.9,8
+1901,Utah,2020,Overall,----2-4 years,Female,"AI/AN, non-Hispanic",0,8
+1902,Utah,2020,Overall,----2-4 years,Female,"Black, non-Hispanic",137.2,8
+1903,Utah,2020,Overall,----2-4 years,Female,Hispanic,235.2,8
+1904,Utah,2020,Overall,----2-4 years,Female,"White, non-Hispanic",129.6,8
+1905,Utah,2020,Overall,----2-4 years,Male,"A/PI, non-Hispanic",121.2,8
+1906,Utah,2020,Overall,----2-4 years,Male,"AI/AN, non-Hispanic",0,8
+1907,Utah,2020,Overall,----2-4 years,Male,"Black, non-Hispanic",137.2,8
+1908,Utah,2020,Overall,----2-4 years,Male,Hispanic,158.1,8
+1909,Utah,2020,Overall,----2-4 years,Male,"White, non-Hispanic",151.4,8
+1910,Utah,2020,Overall,----30-39 years,Female,"A/PI, non-Hispanic",0,8
+1911,Utah,2020,Overall,----30-39 years,Female,"AI/AN, non-Hispanic",0,8
+1912,Utah,2020,Overall,----30-39 years,Female,"Black, non-Hispanic",0,8
+1913,Utah,2020,Overall,----30-39 years,Female,Hispanic,6.4,8
+1914,Utah,2020,Overall,----30-39 years,Female,"White, non-Hispanic",1.6,8
+1915,Utah,2020,Overall,----30-39 years,Male,"A/PI, non-Hispanic",13.8,8
+1916,Utah,2020,Overall,----30-39 years,Male,"AI/AN, non-Hispanic",0,8
+1917,Utah,2020,Overall,----30-39 years,Male,"Black, non-Hispanic",0,8
+1918,Utah,2020,Overall,----30-39 years,Male,Hispanic,0,8
+1919,Utah,2020,Overall,----30-39 years,Male,"White, non-Hispanic",0,8
+1920,Utah,2020,Overall,----40-49 years,Female,"A/PI, non-Hispanic",0,8
+1921,Utah,2020,Overall,----40-49 years,Female,"AI/AN, non-Hispanic",0,8
+1922,Utah,2020,Overall,----40-49 years,Female,"Black, non-Hispanic",0,8
+1923,Utah,2020,Overall,----40-49 years,Female,Hispanic,7.6,8
+1924,Utah,2020,Overall,----40-49 years,Female,"White, non-Hispanic",5.4,8
+1925,Utah,2020,Overall,----40-49 years,Male,"A/PI, non-Hispanic",0,8
+1926,Utah,2020,Overall,----40-49 years,Male,"AI/AN, non-Hispanic",0,8
+1927,Utah,2020,Overall,----40-49 years,Male,"Black, non-Hispanic",0,8
+1928,Utah,2020,Overall,----40-49 years,Male,Hispanic,6.7,8
+1929,Utah,2020,Overall,----40-49 years,Male,"White, non-Hispanic",3.5,8
+1930,Utah,2020,Overall,----5-11 years,Female,"A/PI, non-Hispanic",0,8
+1931,Utah,2020,Overall,----5-11 years,Female,"AI/AN, non-Hispanic",0,8
+1932,Utah,2020,Overall,----5-11 years,Female,"Black, non-Hispanic",0,8
+1933,Utah,2020,Overall,----5-11 years,Female,Hispanic,6.8,8
+1934,Utah,2020,Overall,----5-11 years,Female,"White, non-Hispanic",10.6,8
+1935,Utah,2020,Overall,----5-11 years,Male,"A/PI, non-Hispanic",0,8
+1936,Utah,2020,Overall,----5-11 years,Male,"AI/AN, non-Hispanic",0,8
+1937,Utah,2020,Overall,----5-11 years,Male,"Black, non-Hispanic",0,8
+1938,Utah,2020,Overall,----5-11 years,Male,Hispanic,6.6,8
+1939,Utah,2020,Overall,----5-11 years,Male,"White, non-Hispanic",10,8
+1940,Utah,2020,Overall,----6-<12 months,Female,"A/PI, non-Hispanic",326.3,8
+1941,Utah,2020,Overall,----6-<12 months,Female,"AI/AN, non-Hispanic",2898.6,8
+1942,Utah,2020,Overall,----6-<12 months,Female,"Black, non-Hispanic",0,8
+1943,Utah,2020,Overall,----6-<12 months,Female,Hispanic,566.3,8
+1944,Utah,2020,Overall,----6-<12 months,Female,"White, non-Hispanic",579.4,8
+1945,Utah,2020,Overall,----6-<12 months,Male,"A/PI, non-Hispanic",1892.7,8
+1946,Utah,2020,Overall,----6-<12 months,Male,"AI/AN, non-Hispanic",0,8
+1947,Utah,2020,Overall,----6-<12 months,Male,"Black, non-Hispanic",1716.7,8
+1948,Utah,2020,Overall,----6-<12 months,Male,Hispanic,1356.9,8
+1949,Utah,2020,Overall,----6-<12 months,Male,"White, non-Hispanic",672.1,8
+1950,Utah,2020,Overall,----65-74 years,Female,"A/PI, non-Hispanic",0,8
+1951,Utah,2020,Overall,----65-74 years,Female,"AI/AN, non-Hispanic",0,8
+1952,Utah,2020,Overall,----65-74 years,Female,"Black, non-Hispanic",0,8
+1953,Utah,2020,Overall,----65-74 years,Female,Hispanic,27,8
+1954,Utah,2020,Overall,----65-74 years,Female,"White, non-Hispanic",16.2,8
+1955,Utah,2020,Overall,----65-74 years,Male,"A/PI, non-Hispanic",0,8
+1956,Utah,2020,Overall,----65-74 years,Male,"AI/AN, non-Hispanic",0,8
+1957,Utah,2020,Overall,----65-74 years,Male,"Black, non-Hispanic",0,8
+1958,Utah,2020,Overall,----65-74 years,Male,Hispanic,0,8
+1959,Utah,2020,Overall,----65-74 years,Male,"White, non-Hispanic",14.8,8
+1960,Utah,2020,Overall,----75-84 years,Female,"A/PI, non-Hispanic",0,8
+1961,Utah,2020,Overall,----75-84 years,Female,"AI/AN, non-Hispanic",0,8
+1962,Utah,2020,Overall,----75-84 years,Female,"Black, non-Hispanic",0,8
+1963,Utah,2020,Overall,----75-84 years,Female,Hispanic,0,8
+1964,Utah,2020,Overall,----75-84 years,Female,"White, non-Hispanic",37.7,8
+1965,Utah,2020,Overall,----75-84 years,Male,"A/PI, non-Hispanic",0,8
+1966,Utah,2020,Overall,----75-84 years,Male,"AI/AN, non-Hispanic",0,8
+1967,Utah,2020,Overall,----75-84 years,Male,"Black, non-Hispanic",0,8
+1968,Utah,2020,Overall,----75-84 years,Male,Hispanic,0,8
+1969,Utah,2020,Overall,----75-84 years,Male,"White, non-Hispanic",41.2,8
+1970,Utah,2020,Overall,----85+ years,Female,"A/PI, non-Hispanic",0,8
+1971,Utah,2020,Overall,----85+ years,Female,"AI/AN, non-Hispanic",0,8
+1972,Utah,2020,Overall,----85+ years,Female,"Black, non-Hispanic",0,8
+1973,Utah,2020,Overall,----85+ years,Female,Hispanic,0,8
+1974,Utah,2020,Overall,----85+ years,Female,"White, non-Hispanic",26.7,8
+1975,Utah,2020,Overall,----85+ years,Male,"A/PI, non-Hispanic",0,8
+1976,Utah,2020,Overall,----85+ years,Male,"AI/AN, non-Hispanic",0,8
+1977,Utah,2020,Overall,----85+ years,Male,"Black, non-Hispanic",0,8
+1978,Utah,2020,Overall,----85+ years,Male,Hispanic,0,8
+1979,Utah,2020,Overall,----85+ years,Male,"White, non-Hispanic",0,8
