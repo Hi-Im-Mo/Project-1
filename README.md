@@ -1,2 +1,6 @@
 # Project-1
 In this project, we will be exploring various distributions of confirmed cases of RSV through regions with different control factors such as age, race, and vaccination distribution. Once the data we need is cleaned and sorted we will visualize it in various ways and make predictions on spikes in different areas. 
+
+ANALYSIS:
+
+We concluded from our data that RSV spikes during colder months when viral illness tends to thrive, as evidenced by the line charts created. The south-central area of the united states (Arkansas, Louisiana, New Mexico, Oklahoma, and Texas) sees more hospitalizations related to RSV, as well as a spike in male infants possibly due to males having a smaller diameter airway than females. We noticed a slight decrease in positive tests in 2020 which could be related to the spike and focus on COVID over other respiratory illness at the time. Our 2020 data was limited and could cause a discrepancy in the analysis, so conclusions around 2020 could be flawed. We believe that with the limited data and further exploration from the CDC and the WHO, numbers and testing for RSV will begin to balance back out in the future after the inital concerns of COVID died down. 
